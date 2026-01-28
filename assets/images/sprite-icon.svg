@@ -1,0 +1,3666 @@
+<svg width="0" height="0" class="hidden">
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 111.48 100" id="cart-add">
+    <path d="M92.56 47.38v5.87H62.42v-2.67a5 5 0 00-5-5H41.09a5 5 0 00-5 5v2.67H6V35.38a1 1 0 011-1h59.3a24.08 24.08 0 01-2.1-6H23.9v-9.56h40.2a23.76 23.76 0 012-6H22.9a5 5 0 00-5 5v10.64H7a6.92 6.92 0 00-7 6.92V93a7 7 0 007 7h84.56a7 7 0 007-7V45.49a25.65 25.65 0 01-6 1.89zm-50.47 4.19h14.36v9.65H42.09zM92.56 93a1 1 0 01-1 1H7a1 1 0 01-1-1V59.22h30.11v3a5 5 0 005 5h16.33a5 5 0 005-5v-3h30.12z"></path>
+    <path d="M88.05 46.86a23.43 23.43 0 1123.43-23.43 23.46 23.46 0 01-23.43 23.43zm0-41.62a18.19 18.19 0 1018.19 18.19A18.21 18.21 0 0088.05 5.24z"></path>
+    <path d="M85.43 12.26h5.24v22.06h-5.24z"></path>
+    <path d="M77.04 20.7h22.07v5.24H77.04z"></path>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 113.06 100" id="cart">
+    <path d="M105.07 17.89H92.48V5.7A5.71 5.71 0 0086.77 0H26.28a5.71 5.71 0 00-5.7 5.7v12.19H8a8 8 0 00-8 8V92a8 8 0 008 8h97.08a8 8 0 008-8V25.88a8 8 0 00-8.01-7.99zm-77.65-11h58.21v11H27.42zM8 24.74h97.08a1.15 1.15 0 011.14 1.14V46.4h-34.6v-3.06a5.71 5.71 0 00-5.71-5.71H47.15a5.71 5.71 0 00-5.71 5.71v3.06H6.84V25.88A1.16 1.16 0 018 24.74zm56.77 19.74v11H48.29v-11zm40.3 48.68H8A1.17 1.17 0 016.84 92V53.25h34.6v3.41a5.71 5.71 0 005.71 5.71h18.76a5.71 5.71 0 005.71-5.71v-3.41h34.59V92a1.16 1.16 0 01-1.14 1.16z"></path>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 101.32 100" id="loupe">
+    <path d="M43.92 88.73a42.81 42.81 0 01-30.65-13C-4.42 58.07-4.42 31 13.27 13.27s44.8-17.69 62.49 0c17.69 17.68 17.69 44.8 0 62.49C66.33 84 55.71 88.73 43.92 88.73zm0-81.36A36.23 36.23 0 007.37 43.92C7.37 53.36 10.91 64 18 71c14.13 14.19 37.71 14.19 53 0 14.19-14.11 13-41.23 0-53-8.21-7.09-17.64-10.63-27.08-10.63z"></path>
+    <path d="M71.31 74.991l4.999-5 25.01 25.011-4.999 5z"></path>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 132.42 100" id="mail">
+    <path d="M12.26 100A12.11 12.11 0 01.17 87.94L0 12.36A12.09 12.09 0 0112.06.25L120.13 0a12.11 12.11 0 0112.09 12.06l.17 75.58a12.1 12.1 0 01-12.06 12.11L12.29 100zm-4-12.08a4 4 0 004 4l108.07-.25a4 4 0 004-4l-.17-75.57a4 4 0 00-4-4l-108.08.21a4 4 0 00-2.85 1.18 4.07 4.07 0 00-1.17 2.86z"></path>
+    <path d="M66.13 66.48C41.08 66.19 2 21.31.31 19.4l6.1-5.27c10.6 12.25 42 44.08 59.72 44.29 20.44-.21 49.9-31.94 59.51-44.15l6.33 5a224.36 224.36 0 01-21.68 23.2c-17.1 15.81-31.95 23.89-44.16 24.01z"></path>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 62.78 100" id="phone">
+    <path d="M31.39 84.34a3 3 0 103 3 3 3 0 00-3-3zm5.76-67.85H25.63a2.51 2.51 0 110-5h11.52a2.51 2.51 0 010 5z"></path>
+    <path d="M11.29 100A11.11 11.11 0 01.18 88.91L0 11.23A11.13 11.13 0 0111.09.09L51.47 0a11.13 11.13 0 0111.14 11.09l.17 77.68a11.11 11.11 0 01-11.09 11.14l-40.38.09zm40.2-92.59L11.1 7.5a3.7 3.7 0 00-3.69 3.71l.17 77.69a3.72 3.72 0 003.71 3.69l40.38-.09a3.7 3.7 0 003.69-3.71L55.2 11.1a3.7 3.7 0 00-3.71-3.69z"></path>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 67.77 100" id="pin">
+    <path d="M33.88 67.77a33.89 33.89 0 1133.89-33.89 33.92 33.92 0 01-33.89 33.89zm0-61.16a27.28 27.28 0 1027.28 27.27A27.31 27.31 0 0033.88 6.61z"></path>
+    <path d="M33.88 100a3.31 3.31 0 01-3.3-3.31V64.46a3.31 3.31 0 016.61 0v32.23a3.31 3.31 0 01-3.31 3.31z"></path>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 73.77 100" id="triangle-right">
+    <path d="M0 100V0l73.77 50L0 100z"></path>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" id="user">
+    <path d="M81.25 68.75H75a12.5 12.5 0 01-12.5-12.5v-4a31.39 31.39 0 006-11.28c.13-.69.8-1 1.24-1.51a7.73 7.73 0 001.07-9.3c-.24-.44-.68-.82-.66-1.36v-11c-.1-4.42-1.37-9-4.47-12.29a17.46 17.46 0 00-9.5-4.92 31.57 31.57 0 00-13.61.32 16.47 16.47 0 00-9.69 6.56 19 19 0 00-3 9.9c-.06 3.73 0 7.47 0 11.21.08.74-.55 1.25-.84 1.87a7.75 7.75 0 001.77 9.48c.69.47.82 1.34 1.07 2.09A30.28 30.28 0 0037.5 52.1v4.15A12.5 12.5 0 0125 68.75h-6.25S7.42 71.87 0 87.5v6.25A6.25 6.25 0 006.25 100h87.5a6.25 6.25 0 006.25-6.25V87.5c-7.42-15.62-18.75-18.75-18.75-18.75z"></path>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72.58 100" id="wish">
+    <path d="M72.58 100L36.34 73.58 0 100V0h72.58zM6.94 6.94v79.42L36.34 65l29.3 21.36V6.94z"></path>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72.6 100" id="wish-fill">
+    <path d="M72.6 100L36.3 73.6 0 100V0h72.6v100z"></path>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 55.09 100" id="arrow-left">
+    <path d="M54.52 94.12L30.59 60.28l-7.26-9.91L54.38 6.09l.14-.21a4 4 0 000-4A3.77 3.77 0 0051.26 0H35.44a6.8 6.8 0 00-5.85 3.05S5 38.73 2.24 42.7A13.12 13.12 0 000 50v1.56c0 .25.07.5.11.74a.59.59 0 010 .13l.06.3c.06.29.14.57.22.85l.19.42c.11.37.25.73.39 1.08l.14.32c.12.26.24.51.37.76s.1.2.16.3c.18.33.37.65.58 1a.83.83 0 00.08.12c.09.13.19.24.28.36-.11-.15-.24-.29-.34-.44l27.19 39.42A6.83 6.83 0 0035.3 100h16a3.77 3.77 0 003.31-1.88 4 4 0 00-.09-4z"></path>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 55.09 100" id="arrow-right">
+    <path d="M.57 5.88L24.5 39.72l7.25 9.91L.7 93.91l-.13.21a4 4 0 00-.06 4A3.78 3.78 0 003.83 100h15.82a6.82 6.82 0 005.85-3s24.59-35.73 27.35-39.7a13 13 0 002.24-7.3v-1.21a.28.28 0 000-.09v-.26c0-.25-.07-.5-.11-.74v-.13c0-.1 0-.2-.05-.3-.07-.29-.14-.57-.22-.85 0-.08 0-.17-.07-.26-.12-.37-.25-.73-.4-1.08a3.09 3.09 0 00-.14-.32c-.11-.26-.23-.51-.36-.76l-.16-.3c-.18-.33-.37-.65-.58-1l-.09-.12a3.17 3.17 0 00-.28-.36c.12.15.24.29.35.44L25.65 3.08A6.82 6.82 0 0019.79 0h-16A3.78 3.78 0 00.51 1.88a4 4 0 00.06 4z"></path>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 135.74 100" id="mail-full">
+    <path d="M71.79 67.15a7.72 7.72 0 01-8 0L0 28.21V80a20 20 0 0020 20h95.68a20 20 0 0020-20V28.21z"></path>
+    <path d="M115.71 0H20A19.91 19.91 0 00.64 15.71L68 56.73l67.15-41A19.92 19.92 0 00115.71 0z"></path>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" id="download">
+    <path d="M46.34 77.8a5.18 5.18 0 007.32 0l19.5-19.51A5.17 5.17 0 1065.85 51L55.17 61.65V5.17a5.17 5.17 0 00-10.34 0v56.48L34.15 51a5.17 5.17 0 10-7.31 7.32z"></path>
+    <path d="M94.83 44.83A5.16 5.16 0 0089.66 50v39.66H10.34V50A5.17 5.17 0 000 50v41.38A8.62 8.62 0 008.62 100h82.76a8.62 8.62 0 008.62-8.62V50a5.17 5.17 0 00-5.17-5.17z"></path>
+  </symbol>
+
+  <symbol id="earth" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 24.31 28">
+    <defs>
+      <clipPath id="clip-path">
+        <rect id="Rectangle_548" width="24.31" height="28" fill="none"></rect>
+      </clipPath>
+    </defs>
+    <g id="Groupe_1333" clip-path="url(#clip-path)">
+      <path id="Tracé_605" d="M50.08,115.363a3.657,3.657,0,0,0-3.458.309,5.258,5.258,0,0,1-2.9.878,5.368,5.368,0,0,1-1.209-.139,5.259,5.259,0,0,1-3.372-2.467l-1.383-2.337L33.7,107.548a6.612,6.612,0,0,1-1.921-4.074,12.2,12.2,0,0,0-3.654,3.707q-.184.291-.35.592l4.2,1.65a5.257,5.257,0,0,1,3.244,5.787l-.124.7a3.6,3.6,0,0,0,3.3,4.216,5.26,5.26,0,0,1,4.066,2.422l1.292,2.037a12.2,12.2,0,0,0,6.681-9.079Z" transform="translate(-26.252 -97.815)" fill="#fff"></path>
+      <path id="Tracé_606" d="M241.1,111.229l1.112,1.878a3.666,3.666,0,0,0,5.171,1.194,5.292,5.292,0,0,1,4.841-.514c0-.042,0-.085,0-.127a12.144,12.144,0,0,0-5.523-10.186,6.612,6.612,0,0,1-1.921,4.074Z" transform="translate(-227.915 -97.815)" fill="#fff"></path>
+      <path id="Tracé_607" d="M12.155,225.85a12.182,12.182,0,0,0,3.79-.6l-1.132-1.786A3.613,3.613,0,0,0,12.02,221.8a5.241,5.241,0,0,1-4.8-6.138l.124-.7a3.611,3.611,0,0,0-2.228-3.975L.821,209.3A12.158,12.158,0,0,0,12.155,225.85" transform="translate(0 -197.85)" fill="#fff"></path>
+      <path id="Tracé_608" d="M130.433,5.022A4.989,4.989,0,0,0,131.9,8.573l3.551,3.551,3.551-3.551a5.022,5.022,0,1,0-8.573-3.551Zm5.022-2.973a2.973,2.973,0,1,1-2.973,2.973,2.976,2.976,0,0,1,2.973-2.973" transform="translate(-123.3)" fill="#fff"></path>
+      <path id="Tracé_609" d="M199.236,67.474a1.332,1.332,0,1,1-1.332,1.332,1.332,1.332,0,0,1,1.332-1.332" transform="translate(-187.081 -63.784)" fill="#fff"></path>
+    </g>
+  </symbol>
+  <symbol id="call" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 41.459 34.25">
+    <defs>
+      <clipPath id="clip-path">
+        <rect id="Rectangle_550" width="41.459" height="34.25" fill="none"></rect>
+      </clipPath>
+    </defs>
+    <g id="Groupe_1335" clip-path="url(#clip-path)">
+      <path id="Tracé_610" d="M132.706,87.25a10.515,10.515,0,1,0-7.7-3.362l-1.088,4.058a1.254,1.254,0,0,0,1.838,1.41l4.256-2.458a10.519,10.519,0,0,0,2.693.352m.653-14.887a.341.341,0,0,1,.3-.171H135.1a.629.629,0,0,1,.533.28s2.235,3.24,2.481,3.6a1.227,1.227,0,0,1,.205.67v.137c0,.02-.007.048-.007.068v.02A.041.041,0,0,1,138.3,77c-.007.027-.014.055-.02.075s-.007.014-.007.02c-.014.034-.02.068-.034.1-.007.007-.007.02-.014.027s-.021.048-.034.068-.007.02-.014.027a.622.622,0,0,1-.055.089c0,.007-.007.007-.007.014h0l.007-.008-2.467,3.581a.621.621,0,0,1-.533.28h-1.449a.341.341,0,0,1-.3-.171.332.332,0,0,1-.007-.362l2.173-3.069.656-.9-2.816-4.019-.014-.02a.361.361,0,0,1-.007-.362m-5.03,8.906a.341.341,0,0,1-.3-.171.332.332,0,0,1-.007-.362l2.173-3.069.656-.9-2.816-4.019-.014-.02a.361.361,0,0,1-.007-.362.341.341,0,0,1,.3-.171h1.435a.629.629,0,0,1,.533.28s2.235,3.24,2.481,3.6a1.227,1.227,0,0,1,.2.67v.137c0,.02-.007.048-.007.068v.02a.041.041,0,0,1-.007.027c-.007.027-.014.055-.02.075s-.007.014-.007.02c-.014.034-.02.068-.034.1-.007.007-.007.02-.014.027s-.021.048-.034.068-.007.02-.014.027a.621.621,0,0,1-.055.089c0,.007-.007.007-.007.014h0l.007-.008-2.467,3.581a.621.621,0,0,1-.533.28Z" transform="translate(-111.985 -60.681)" fill="#fff"></path>
+      <path id="Tracé_611" d="M41.442,16.946c.014-.512.028-1.041,0-1.594a5.972,5.972,0,0,0-6-5.707,16.051,16.051,0,0,0-29.434,0,5.976,5.976,0,0,0-6,5.708c-.023.552-.009,1.081,0,1.593.015.543.029,1.105,0,1.735a5.971,5.971,0,0,0,5.7,6.216q.14.006.278.006a5.9,5.9,0,0,0,2.291-.462,1.25,1.25,0,0,0,.7-1.578.823.823,0,0,0-.085-.213,13.545,13.545,0,1,1,14.33,6.717,3.477,3.477,0,1,0,.111,2.525,16.084,16.084,0,0,0,10.872-7.124,5.859,5.859,0,0,0,1.248.135q.138,0,.277-.006a5.972,5.972,0,0,0,5.7-6.216c-.027-.63-.012-1.192,0-1.736" transform="translate(0)" fill="#fff"></path>
+    </g>
+  </symbol>
+  <symbol id="call-color" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 50.044 50.02">
+    <defs>
+      <clipPath id="clip-path">
+        <rect id="Rectangle_208" width="5.704" height="10.356" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-3">
+        <rect id="Rectangle_210" width="50.044" height="50.019" fill="none"></rect>
+      </clipPath>
+    </defs>
+    <g id="Groupe_527" transform="translate(19.589 18.216)">
+      <g id="Groupe_526" clip-path="url(#clip-path)">
+        <path id="Tracé_384" d="M251.307,243.389l2.478-3.5.75-1.027-3.215-4.587-.014-.022a.412.412,0,0,1-.006-.414.391.391,0,0,1,.343-.194h1.639a.706.706,0,0,1,.605.316s2.547,3.7,2.833,4.106a1.353,1.353,0,0,1,.232.76v0c0,.021,0,.04,0,.061s0,.043,0,.064v.01a.2.2,0,0,1,0,.027c0,.026-.007.051-.012.077a.031.031,0,0,1,0,.013v0c0,.01,0,.021-.006.031-.006.03-.014.059-.023.087,0,.009,0,.018-.007.027v0c-.012.038-.026.075-.041.112l-.014.033c-.012.027-.024.053-.038.078l-.017.032c-.019.034-.038.067-.06.1h0l-.009.012c-.009.013-.019.024-.029.038.012-.015.024-.03.035-.046l-2.818,4.089a.708.708,0,0,1-.608.319h-1.653a.391.391,0,0,1-.343-.194.411.411,0,0,1,.006-.414" transform="translate(-251.249 -233.642)" fill="#93b208"></path>
+      </g>
+    </g>
+    <g id="Groupe_529" transform="translate(25.687 18.216)">
+      <g id="Groupe_528" clip-path="url(#clip-path)">
+        <path id="Tracé_385" d="M329.53,243.389l2.478-3.5.751-1.027-3.215-4.587-.014-.022a.412.412,0,0,1-.006-.414.39.39,0,0,1,.343-.194h1.639a.706.706,0,0,1,.605.316s2.547,3.7,2.832,4.106a1.353,1.353,0,0,1,.232.76v0c0,.021,0,.04,0,.061s0,.043,0,.064v.01a.2.2,0,0,1,0,.027c0,.026-.007.051-.012.077a.031.031,0,0,1,0,.013v0c0,.01,0,.021-.006.031-.006.03-.014.059-.022.087,0,.009,0,.018-.007.027v0c-.012.038-.026.075-.041.112l-.014.033q-.018.04-.038.078l-.017.032c-.019.034-.038.067-.06.1h0l-.009.012c-.009.013-.019.024-.029.038.012-.015.024-.03.035-.046l-2.818,4.089a.708.708,0,0,1-.608.319h-1.653a.391.391,0,0,1-.343-.194.412.412,0,0,1,.006-.414" transform="translate(-329.472 -233.642)" fill="#93b208"></path>
+      </g>
+    </g>
+    <g id="Groupe_531">
+      <g id="Groupe_530" clip-path="url(#clip-path-3)">
+        <path id="Tracé_386" d="M23.1,50.02a4.872,4.872,0,0,1,.042-9.743h3.712a4.873,4.873,0,0,1,4.57,3.247l.147.416h4.442a7.971,7.971,0,0,0,7.951-7.95v-.779l-.416-.147A4.874,4.874,0,0,1,40.3,30.492V25a4.879,4.879,0,0,1,2.863-4.425l.388-.176-.022-.426A18.533,18.533,0,0,0,26,2.441c-.33-.017-.663-.026-.992-.026A18.521,18.521,0,0,0,6.515,19.972l-.022.425.388.176A4.882,4.882,0,0,1,9.743,25v5.494a4.872,4.872,0,0,1-4.829,4.824H4.87A4.886,4.886,0,0,1,0,30.488V25A4.868,4.868,0,0,1,3.647,20.3l.44-.114.026-.454a20.941,20.941,0,0,1,19.7-19.7C24.222.013,24.635,0,25.042,0A20.95,20.95,0,0,1,45.93,19.737l.026.454.44.114A4.869,4.869,0,0,1,50.044,25v5.493a4.873,4.873,0,0,1-3.247,4.57l-.416.147v.779A10.394,10.394,0,0,1,36.012,46.356H31.571l-.147.416a4.874,4.874,0,0,1-4.572,3.247H23.1Zm.08-7.327a2.456,2.456,0,0,0,0,4.911h3.738a2.456,2.456,0,0,0,2.419-2.493,2.466,2.466,0,0,0-2.455-2.419h-3.7ZM45.137,22.515a2.456,2.456,0,0,0-2.42,2.493v5.486c0,.015,0,.04,0,.064a2.466,2.466,0,0,0,2.455,2.419h.037a2.459,2.459,0,0,0,2.419-2.493V25c0-.015,0-.04,0-.064a2.466,2.466,0,0,0-2.455-2.419h-.036Zm-40.265.055a2.466,2.466,0,0,0-2.455,2.419v5.5a2.449,2.449,0,0,0,2.418,2.428h.036A2.466,2.466,0,0,0,7.327,30.5V25a2.448,2.448,0,0,0-2.418-2.428Z" transform="translate(0 -0.001)" fill="#404b2b"></path>
+        <path id="Tracé_387" d="M172.078,138.611A12.592,12.592,0,0,0,159.491,151.2a12.382,12.382,0,0,0,3.021,8.156l-2.719,2.719a1.008,1.008,0,0,0,.7,1.712h11.58a12.587,12.587,0,1,0,0-25.174m0,23.161h-9.164l1.662-1.662a1.084,1.084,0,0,0,.05-1.46A10.438,10.438,0,0,1,161.5,151.2a10.573,10.573,0,1,1,10.573,10.573" transform="translate(-147.056 -127.804)" fill="#93b208"></path>
+        <path id="Tracé_388" d="M482.385,300.057Z" transform="translate(-444.776 -276.663)" fill="#93b208"></path>
+      </g>
+    </g>
+  </symbol>
+
+  <!--FRANCE ICON-->
+  <symbol id="france" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 25 22.614">
+    <defs>
+      <clipPath id="clip-path">
+        <rect id="Rectangle_333" width="25" height="22.614" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-2">
+        <rect id="Rectangle_328" width="24.994" height="15.732" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-3">
+        <rect id="Rectangle_227" width="25" height="15.74" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-5">
+        <rect id="Rectangle_229" width="24.684" height="15.584" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-6">
+        <rect id="Rectangle_228" width="24.677" height="15.581" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-7">
+        <rect id="Rectangle_231" width="24.369" height="15.435" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-8">
+        <rect id="Rectangle_230" width="24.361" height="15.428" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-9">
+        <rect id="Rectangle_233" width="24.053" height="15.288" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-10">
+        <rect id="Rectangle_232" width="24.048" height="15.277" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-11">
+        <rect id="Rectangle_235" width="23.737" height="15.132" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-12">
+        <rect id="Rectangle_234" width="23.732" height="15.125" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-13">
+        <rect id="Rectangle_237" width="23.421" height="14.981" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-14">
+        <rect id="Rectangle_236" width="23.416" height="14.974" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-15">
+        <rect id="Rectangle_239" width="23.104" height="14.828" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-16">
+        <rect id="Rectangle_238" width="23.101" height="14.822" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-17">
+        <rect id="Rectangle_241" width="22.79" height="14.684" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-18">
+        <rect id="Rectangle_240" width="22.786" height="14.672" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-19">
+        <rect id="Rectangle_243" width="22.474" height="14.524" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-20">
+        <rect id="Rectangle_242" width="22.47" height="14.52" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-21">
+        <rect id="Rectangle_245" width="22.158" height="14.378" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-22">
+        <rect id="Rectangle_244" width="22.155" height="14.369" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-23">
+        <rect id="Rectangle_247" width="21.843" height="14.219" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-24">
+        <rect id="Rectangle_246" width="21.839" height="14.218" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-25">
+        <rect id="Rectangle_249" width="21.526" height="14.076" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-26">
+        <rect id="Rectangle_248" width="21.524" height="14.067" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-27">
+        <rect id="Rectangle_251" width="21.215" height="13.916" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-28">
+        <rect id="Rectangle_250" width="21.209" height="13.916" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-29">
+        <rect id="Rectangle_253" width="20.893" height="13.772" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-30">
+        <rect id="Rectangle_252" width="20.893" height="13.764" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-31">
+        <rect id="Rectangle_255" width="20.579" height="13.629" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-32">
+        <rect id="Rectangle_254" width="20.579" height="13.614" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-33">
+        <rect id="Rectangle_257" width="20.269" height="13.467" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-34">
+        <rect id="Rectangle_256" width="20.263" height="13.462" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-35">
+        <rect id="Rectangle_259" width="19.947" height="13.324" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-36">
+        <rect id="Rectangle_258" width="19.947" height="13.312" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-37">
+        <rect id="Rectangle_261" width="19.631" height="13.165" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-38">
+        <rect id="Rectangle_260" width="19.631" height="13.16" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-39">
+        <rect id="Rectangle_263" width="19.318" height="13.017" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-40">
+        <rect id="Rectangle_262" width="19.318" height="13.01" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-41">
+        <rect id="Rectangle_265" width="19.002" height="12.86" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-43">
+        <rect id="Rectangle_267" width="18.687" height="12.722" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-44">
+        <rect id="Rectangle_266" width="18.687" height="12.709" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-45">
+        <rect id="Rectangle_269" width="18.37" height="12.578" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-46">
+        <rect id="Rectangle_268" width="18.37" height="12.558" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-47">
+        <rect id="Rectangle_271" width="18.056" height="12.41" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-48">
+        <rect id="Rectangle_270" width="18.056" height="12.407" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-49">
+        <rect id="Rectangle_273" width="17.741" height="12.274" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-50">
+        <rect id="Rectangle_272" width="17.741" height="12.259" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-51">
+        <rect id="Rectangle_275" width="17.425" height="12.114" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-52">
+        <rect id="Rectangle_274" width="17.425" height="12.108" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-53">
+        <rect id="Rectangle_277" width="17.109" height="11.969" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-54">
+        <rect id="Rectangle_276" width="17.109" height="11.958" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-55">
+        <rect id="Rectangle_279" width="16.795" height="11.812" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-56">
+        <rect id="Rectangle_278" width="16.795" height="11.807" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-57">
+        <rect id="Rectangle_281" width="16.479" height="11.668" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-58">
+        <rect id="Rectangle_280" width="16.479" height="11.658" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-59">
+        <rect id="Rectangle_283" width="16.163" height="11.509" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-61">
+        <rect id="Rectangle_285" width="15.848" height="11.368" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-62">
+        <rect id="Rectangle_284" width="15.848" height="11.359" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-63">
+        <rect id="Rectangle_287" width="15.533" height="11.225" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-64">
+        <rect id="Rectangle_286" width="15.533" height="11.21" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-65">
+        <rect id="Rectangle_289" width="15.217" height="11.067" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-66">
+        <rect id="Rectangle_288" width="15.217" height="11.061" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-67">
+        <rect id="Rectangle_291" width="14.902" height="10.924" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-68">
+        <rect id="Rectangle_290" width="14.902" height="10.912" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-69">
+        <rect id="Rectangle_293" width="14.586" height="10.768" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-70">
+        <rect id="Rectangle_292" width="14.586" height="10.762" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-71">
+        <rect id="Rectangle_295" width="14.283" height="10.627" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-72">
+        <rect id="Rectangle_294" width="14.273" height="10.614" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-73">
+        <rect id="Rectangle_297" width="13.964" height="10.468" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-74">
+        <rect id="Rectangle_296" width="13.956" height="10.465" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-75">
+        <rect id="Rectangle_299" width="13.64" height="10.328" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-76">
+        <rect id="Rectangle_298" width="13.64" height="10.318" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-77">
+        <rect id="Rectangle_301" width="13.333" height="10.171" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-78">
+        <rect id="Rectangle_300" width="13.324" height="10.171" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-79">
+        <rect id="Rectangle_303" width="13.017" height="10.031" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-80">
+        <rect id="Rectangle_302" width="13.011" height="10.021" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-81">
+        <rect id="Rectangle_305" width="12.702" height="9.885" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-82">
+        <rect id="Rectangle_304" width="12.695" height="9.874" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-83">
+        <rect id="Rectangle_307" width="12.388" height="9.766" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-84">
+        <rect id="Rectangle_306" width="12.38" height="9.76" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-85">
+        <rect id="Rectangle_309" width="12.071" height="9.766" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-86">
+        <rect id="Rectangle_308" width="12.064" height="9.76" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-87">
+        <rect id="Rectangle_311" width="11.756" height="9.766" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-88">
+        <rect id="Rectangle_310" width="11.749" height="9.76" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-89">
+        <rect id="Rectangle_313" width="11.44" height="9.766" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-90">
+        <rect id="Rectangle_312" width="11.434" height="9.76" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-91">
+        <rect id="Rectangle_315" width="11.123" height="9.766" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-92">
+        <rect id="Rectangle_314" width="11.118" height="9.76" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-93">
+        <rect id="Rectangle_317" width="10.807" height="9.766" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-94">
+        <rect id="Rectangle_316" width="10.803" height="9.76" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-95">
+        <rect id="Rectangle_319" width="10.491" height="9.766" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-96">
+        <rect id="Rectangle_318" width="10.488" height="9.76" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-97">
+        <rect id="Rectangle_321" width="10.176" height="9.766" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-98">
+        <rect id="Rectangle_320" width="10.172" height="9.76" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-99">
+        <rect id="Rectangle_323" width="9.859" height="9.766" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-100">
+        <rect id="Rectangle_322" width="9.856" height="9.76" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-101">
+        <rect id="Rectangle_325" width="9.544" height="9.766" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-102">
+        <rect id="Rectangle_324" width="9.542" height="9.76" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-103">
+        <rect id="Rectangle_327" width="9.229" height="9.766" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-104">
+        <rect id="Rectangle_326" width="9.226" height="9.76" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-105">
+        <rect id="Rectangle_329" width="8.91" height="9.76" fill="none"></rect>
+      </clipPath>
+    </defs>
+    <g id="Groupe_1332" transform="translate(0 13)">
+      <g id="Groupe_808" transform="translate(0 -13)" clip-path="url(#clip-path)">
+        <g id="Groupe_805" transform="translate(0 6.882)">
+          <g id="Groupe_804" clip-path="url(#clip-path-2)">
+            <g id="Groupe_553" transform="translate(0 -0.009)" opacity="0">
+              <g id="Groupe_552">
+                <g id="Groupe_551" clip-path="url(#clip-path-3)">
+                  <g id="Groupe_550" transform="translate(0 0.009)">
+                    <g id="Groupe_549" clip-path="url(#clip-path-2)">
+                      <path id="Tracé_435" d="M21.334,21.161,0,15.266V5.508l25,6.9v4.35c0,2.807-1.755,4.929-3.666,4.4" transform="translate(0 -5.517)" fill="#fff"></path>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g id="Groupe_558" opacity="0.02">
+              <g id="Groupe_557">
+                <g id="Groupe_556" clip-path="url(#clip-path-5)">
+                  <g id="Groupe_555">
+                    <g id="Groupe_554" clip-path="url(#clip-path-6)">
+                      <path id="Tracé_436" d="M0,15.28V5.521l24.667,6.83.017,4.315c0,2.772-1.737,4.877-3.632,4.35Z" transform="translate(0 -5.514)" fill="#fafafa"></path>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g id="Groupe_563" opacity="0.039">
+              <g id="Groupe_562">
+                <g id="Groupe_561" clip-path="url(#clip-path-7)">
+                  <g id="Groupe_560">
+                    <g id="Groupe_559" clip-path="url(#clip-path-8)">
+                      <path id="Tracé_437" d="M0,15.28V5.521L24.351,12.28l.017,4.263c0,2.754-1.7,4.825-3.579,4.333Z" transform="translate(0 -5.514)" fill="#f5f5f5"></path>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g id="Groupe_568" opacity="0.059">
+              <g id="Groupe_567">
+                <g id="Groupe_566" clip-path="url(#clip-path-9)">
+                  <g id="Groupe_565">
+                    <g id="Groupe_564" clip-path="url(#clip-path-10)">
+                      <path id="Tracé_438" d="M0,15.28V5.521l24.035,6.671.017,4.243c0,2.719-1.667,4.772-3.544,4.3Z" transform="translate(0 -5.514)" fill="#f0f0f0"></path>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g id="Groupe_573" opacity="0.078">
+              <g id="Groupe_572">
+                <g id="Groupe_571" clip-path="url(#clip-path-11)">
+                  <g id="Groupe_570">
+                    <g id="Groupe_569" clip-path="url(#clip-path-12)">
+                      <path id="Tracé_439" d="M0,15.28V5.521l23.72,6.6.017,4.211c0,2.684-1.631,4.72-3.494,4.243Z" transform="translate(0 -5.514)" fill="#ebebeb"></path>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g id="Groupe_578" opacity="0.098">
+              <g id="Groupe_577">
+                <g id="Groupe_576" clip-path="url(#clip-path-13)">
+                  <g id="Groupe_575">
+                    <g id="Groupe_574" clip-path="url(#clip-path-14)">
+                      <path id="Tracé_440" d="M0,15.28V5.521l23.4,6.527.017,4.176c0,2.649-1.6,4.649-3.456,4.211Z" transform="translate(0 -5.514)" fill="#e6e6e6"></path>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g id="Groupe_583" opacity="0.118">
+              <g id="Groupe_582">
+                <g id="Groupe_581" clip-path="url(#clip-path-15)">
+                  <g id="Groupe_580">
+                    <g id="Groupe_579" clip-path="url(#clip-path-16)">
+                      <path id="Tracé_441" d="M0,15.28V5.521l23.087,6.461.017,4.141c0,2.614-1.561,4.6-3.4,4.158Z" transform="translate(0 -5.514)" fill="#e1e1e1"></path>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g id="Groupe_588" opacity="0.137">
+              <g id="Groupe_587">
+                <g id="Groupe_586" clip-path="url(#clip-path-17)">
+                  <g id="Groupe_585">
+                    <g id="Groupe_584" clip-path="url(#clip-path-18)">
+                      <path id="Tracé_442" d="M0,15.28V5.521l22.755,6.391L22.79,16c0,2.6-1.526,4.561-3.369,4.141Z" transform="translate(0 -5.514)" fill="#dcdcdc"></path>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g id="Groupe_593" opacity="0.157">
+              <g id="Groupe_592">
+                <g id="Groupe_591" clip-path="url(#clip-path-19)">
+                  <g id="Groupe_590">
+                    <g id="Groupe_589" clip-path="url(#clip-path-20)">
+                      <path id="Tracé_443" d="M0,15.28V5.521l22.439,6.3.035,4.071c0,2.562-1.491,4.493-3.316,4.088Z" transform="translate(0 -5.514)" fill="#d7d7d7"></path>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g id="Groupe_598" opacity="0.176">
+              <g id="Groupe_597">
+                <g id="Groupe_596" clip-path="url(#clip-path-21)">
+                  <g id="Groupe_595">
+                    <g id="Groupe_594" clip-path="url(#clip-path-22)">
+                      <path id="Tracé_444" d="M0,15.28V5.521l22.124,6.233.035,4.035c0,2.543-1.456,4.439-3.263,4.052Z" transform="translate(0 -5.514)" fill="#d2d2d2"></path>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g id="Groupe_603" opacity="0.196">
+              <g id="Groupe_602">
+                <g id="Groupe_601" clip-path="url(#clip-path-23)">
+                  <g id="Groupe_600">
+                    <g id="Groupe_599" clip-path="url(#clip-path-24)">
+                      <path id="Tracé_445" d="M0,15.28V5.521l21.808,6.162.035,4c0,2.5-1.421,4.387-3.228,4Z" transform="translate(0 -5.514)" fill="#cdcdcd"></path>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g id="Groupe_608" opacity="0.216">
+              <g id="Groupe_607">
+                <g id="Groupe_606" clip-path="url(#clip-path-25)">
+                  <g id="Groupe_605">
+                    <g id="Groupe_604" clip-path="url(#clip-path-26)">
+                      <path id="Tracé_446" d="M0,15.28V5.521l21.491,6.092.035,3.965c0,2.473-1.386,4.333-3.176,3.965Z" transform="translate(0 -5.514)" fill="#c8c8c8"></path>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g id="Groupe_613" opacity="0.235">
+              <g id="Groupe_612">
+                <g id="Groupe_611" clip-path="url(#clip-path-27)">
+                  <g id="Groupe_610">
+                    <g id="Groupe_609" clip-path="url(#clip-path-28)">
+                      <path id="Tracé_447" d="M0,15.28V5.521l21.158,6.005.057,3.93c0,2.456-1.35,4.28-3.14,3.93Z" transform="translate(0 -5.514)" fill="#c3c3c3"></path>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g id="Groupe_618" opacity="0.255">
+              <g id="Groupe_617">
+                <g id="Groupe_616" clip-path="url(#clip-path-29)">
+                  <g id="Groupe_615">
+                    <g id="Groupe_614" clip-path="url(#clip-path-30)">
+                      <path id="Tracé_448" d="M0,15.28V5.521l20.841,5.935.052,3.895c0,2.421-1.315,4.228-3.087,3.895Z" transform="translate(0 -5.514)" fill="#bebebe"></path>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g id="Groupe_623" opacity="0.275">
+              <g id="Groupe_622">
+                <g id="Groupe_621" clip-path="url(#clip-path-31)">
+                  <g id="Groupe_620">
+                    <g id="Groupe_619" clip-path="url(#clip-path-32)">
+                      <path id="Tracé_449" d="M0,15.28V5.521l20.526,5.865.052,3.86c0,2.386-1.28,4.176-3.052,3.86Z" transform="translate(0 -5.514)" fill="#b9b9b9"></path>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g id="Groupe_628" opacity="0.294">
+              <g id="Groupe_627">
+                <g id="Groupe_626" clip-path="url(#clip-path-33)">
+                  <g id="Groupe_625">
+                    <g id="Groupe_624" clip-path="url(#clip-path-34)">
+                      <path id="Tracé_450" d="M0,15.28V5.521l20.217,5.794.052,3.825c0,2.351-1.248,4.106-3,3.807Z" transform="translate(0 -5.514)" fill="#b4b4b4"></path>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g id="Groupe_633" opacity="0.314">
+              <g id="Groupe_632">
+                <g id="Groupe_631" clip-path="url(#clip-path-35)">
+                  <g id="Groupe_630">
+                    <g id="Groupe_629" clip-path="url(#clip-path-36)">
+                      <path id="Tracé_451" d="M0,15.28V5.521l19.895,5.724.052,3.79c0,2.316-1.211,4.052-2.965,3.773Z" transform="translate(0 -5.514)" fill="#afafaf"></path>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g id="Groupe_638" opacity="0.333">
+              <g id="Groupe_637">
+                <g id="Groupe_636" clip-path="url(#clip-path-37)">
+                  <g id="Groupe_635">
+                    <g id="Groupe_634" clip-path="url(#clip-path-38)">
+                      <path id="Tracé_452" d="M0,15.28V5.521l19.579,5.654.052,3.754c0,2.281-1.176,4-2.913,3.719Z" transform="translate(0 -5.514)" fill="#aaa"></path>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g id="Groupe_643" opacity="0.353">
+              <g id="Groupe_642">
+                <g id="Groupe_641" clip-path="url(#clip-path-39)">
+                  <g id="Groupe_640">
+                    <g id="Groupe_639" clip-path="url(#clip-path-40)">
+                      <path id="Tracé_453" d="M0,15.28V5.521l19.246,5.566.07,3.719c0,2.264-1.141,3.947-2.878,3.7Z" transform="translate(0 -5.514)" fill="#a5a5a5"></path>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g id="Groupe_648" opacity="0.373">
+              <g id="Groupe_647">
+                <g id="Groupe_646" clip-path="url(#clip-path-41)">
+                  <g id="Groupe_645">
+                    <g id="Groupe_644" clip-path="url(#clip-path-41)">
+                      <path id="Tracé_454" d="M0,15.28V5.521l18.93,5.491L19,14.7c0,2.228-1.106,3.895-2.824,3.649Z" transform="translate(0 -5.514)" fill="#a0a0a0"></path>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g id="Groupe_653" opacity="0.392">
+              <g id="Groupe_652">
+                <g id="Groupe_651" clip-path="url(#clip-path-43)">
+                  <g id="Groupe_650">
+                    <g id="Groupe_649" clip-path="url(#clip-path-44)">
+                      <path id="Tracé_455" d="M0,15.28V5.521l18.614,5.426.07,3.649c0,2.193-1.071,3.842-2.772,3.619Z" transform="translate(0 -5.514)" fill="#9b9b9b"></path>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g id="Groupe_658" opacity="0.412">
+              <g id="Groupe_657">
+                <g id="Groupe_656" clip-path="url(#clip-path-45)">
+                  <g id="Groupe_655">
+                    <g id="Groupe_654" clip-path="url(#clip-path-46)">
+                      <path id="Tracé_456" d="M0,15.28V5.521l18.3,5.356.07,3.619c0,2.158-1.035,3.773-2.737,3.579Z" transform="translate(0 -5.514)" fill="#969696"></path>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g id="Groupe_663" opacity="0.431">
+              <g id="Groupe_662">
+                <g id="Groupe_661" clip-path="url(#clip-path-47)">
+                  <g id="Groupe_660">
+                    <g id="Groupe_659" clip-path="url(#clip-path-48)">
+                      <path id="Tracé_457" d="M0,15.28V5.521L17.983,10.79l.07,3.592c0,2.122-1,3.719-2.684,3.527Z" transform="translate(0 -5.514)" fill="#919191"></path>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g id="Groupe_668" opacity="0.451">
+              <g id="Groupe_667">
+                <g id="Groupe_666" clip-path="url(#clip-path-49)">
+                  <g id="Groupe_665">
+                    <g id="Groupe_664" clip-path="url(#clip-path-50)">
+                      <path id="Tracé_458" d="M0,15.28V5.521l17.667,5.2.07,3.562c0,2.088-.965,3.666-2.649,3.494Z" transform="translate(0 -5.514)" fill="#8c8c8c"></path>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g id="Groupe_673" opacity="0.471">
+              <g id="Groupe_672">
+                <g id="Groupe_671" clip-path="url(#clip-path-51)">
+                  <g id="Groupe_670">
+                    <g id="Groupe_669" clip-path="url(#clip-path-52)">
+                      <path id="Tracé_459" d="M0,15.28V5.521l17.334,5.128.087,3.509c0,2.07-.93,3.632-2.6,3.456Z" transform="translate(0 -5.514)" fill="#878787"></path>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g id="Groupe_678" opacity="0.49">
+              <g id="Groupe_677">
+                <g id="Groupe_676" clip-path="url(#clip-path-53)">
+                  <g id="Groupe_675">
+                    <g id="Groupe_674" clip-path="url(#clip-path-54)">
+                      <path id="Tracé_460" d="M0,15.28V5.521l17.018,5.058.087,3.474c0,2.035-.895,3.562-2.562,3.421Z" transform="translate(0 -5.514)" fill="#828282"></path>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g id="Groupe_683" opacity="0.51">
+              <g id="Groupe_682">
+                <g id="Groupe_681" clip-path="url(#clip-path-55)">
+                  <g id="Groupe_680">
+                    <g id="Groupe_679" clip-path="url(#clip-path-56)">
+                      <path id="Tracé_461" d="M0,15.28V5.521l16.7,4.971.087,3.456c0,2-.86,3.509-2.508,3.369Z" transform="translate(0 -5.514)" fill="#7d7d7d"></path>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g id="Groupe_688" opacity="0.529">
+              <g id="Groupe_687">
+                <g id="Groupe_686" clip-path="url(#clip-path-57)">
+                  <g id="Groupe_685">
+                    <g id="Groupe_684" clip-path="url(#clip-path-58)">
+                      <path id="Tracé_462" d="M0,15.28V5.521l16.385,4.9.087,3.421c0,1.966-.825,3.456-2.473,3.333Z" transform="translate(0 -5.514)" fill="#787878"></path>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g id="Groupe_693" opacity="0.549">
+              <g id="Groupe_692">
+                <g id="Groupe_691" clip-path="url(#clip-path-59)">
+                  <g id="Groupe_690">
+                    <g id="Groupe_689" clip-path="url(#clip-path-59)">
+                      <path id="Tracé_463" d="M0,15.28V5.521l16.07,4.83.087,3.386c0,1.947-.79,3.386-2.421,3.281Z" transform="translate(0 -5.514)" fill="#737373"></path>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g id="Groupe_698" opacity="0.569">
+              <g id="Groupe_697">
+                <g id="Groupe_696" clip-path="url(#clip-path-61)">
+                  <g id="Groupe_695">
+                    <g id="Groupe_694" clip-path="url(#clip-path-62)">
+                      <path id="Tracé_464" d="M0,15.28V5.521l15.737,4.755.106,3.357c0,1.894-.749,3.333-2.371,3.245Z" transform="translate(0 -5.514)" fill="#6e6e6e"></path>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g id="Groupe_703" opacity="0.588">
+              <g id="Groupe_702">
+                <g id="Groupe_701" clip-path="url(#clip-path-63)">
+                  <g id="Groupe_700">
+                    <g id="Groupe_699" clip-path="url(#clip-path-64)">
+                      <path id="Tracé_465" d="M0,15.28V5.521l15.421,4.69.106,3.3c0,1.894-.719,3.3-2.334,3.228Z" transform="translate(0 -5.514)" fill="#696969"></path>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g id="Groupe_708" opacity="0.608">
+              <g id="Groupe_707">
+                <g id="Groupe_706" clip-path="url(#clip-path-65)">
+                  <g id="Groupe_705">
+                    <g id="Groupe_704" clip-path="url(#clip-path-66)">
+                      <path id="Tracé_466" d="M0,15.28V5.521l15.1,4.6.1,3.281c0,1.859-.684,3.228-2.281,3.176Z" transform="translate(0 -5.514)" fill="#646464"></path>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g id="Groupe_713" opacity="0.627">
+              <g id="Groupe_712">
+                <g id="Groupe_711" clip-path="url(#clip-path-67)">
+                  <g id="Groupe_710">
+                    <g id="Groupe_709" clip-path="url(#clip-path-68)">
+                      <path id="Tracé_467" d="M0,15.28V5.521l14.789,4.531.1,3.245c0,1.824-.649,3.176-2.246,3.14Z" transform="translate(0 -5.514)" fill="#5f5f5f"></path>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g id="Groupe_718" opacity="0.647">
+              <g id="Groupe_717">
+                <g id="Groupe_716" clip-path="url(#clip-path-69)">
+                  <g id="Groupe_715">
+                    <g id="Groupe_714" clip-path="url(#clip-path-70)">
+                      <path id="Tracé_468" d="M0,15.28V5.521L14.476,9.982l.1,3.211c0,1.79-.614,3.12-2.193,3.087Z" transform="translate(0 -5.514)" fill="#5a5a5a"></path>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g id="Groupe_723" opacity="0.667">
+              <g id="Groupe_722">
+                <g id="Groupe_721" clip-path="url(#clip-path-71)">
+                  <g id="Groupe_720">
+                    <g id="Groupe_719" clip-path="url(#clip-path-72)">
+                      <path id="Tracé_469" d="M0,15.28V5.521L14.158,9.913l.125,3.176c0,1.755-.6,3.052-2.175,3.052Z" transform="translate(0 -5.514)" fill="#555"></path>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g id="Groupe_728" opacity="0.686">
+              <g id="Groupe_727">
+                <g id="Groupe_726" clip-path="url(#clip-path-73)">
+                  <g id="Groupe_725">
+                    <g id="Groupe_724" clip-path="url(#clip-path-74)">
+                      <path id="Tracé_470" d="M0,15.28V5.521l13.825,4.3.14,3.14c0,1.737-.562,3.018-2.122,3.018Z" transform="translate(0 -5.514)" fill="#505050"></path>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g id="Groupe_733" opacity="0.706">
+              <g id="Groupe_732">
+                <g id="Groupe_731" clip-path="url(#clip-path-75)">
+                  <g id="Groupe_730">
+                    <g id="Groupe_729" clip-path="url(#clip-path-76)">
+                      <path id="Tracé_471" d="M0,15.28V5.521L13.509,9.754l.125,3.1c0,1.7-.509,2.965-2.07,2.983Z" transform="translate(0 -5.514)" fill="#4b4b4b"></path>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g id="Groupe_738" opacity="0.725">
+              <g id="Groupe_737">
+                <g id="Groupe_736" clip-path="url(#clip-path-77)">
+                  <g id="Groupe_735">
+                    <g id="Groupe_734" clip-path="url(#clip-path-78)">
+                      <path id="Tracé_472" d="M0,15.28V5.521L13.193,9.684l.14,3.07c0,1.667-.492,2.913-2.035,2.93Z" transform="translate(0 -5.514)" fill="#464646"></path>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g id="Groupe_743" opacity="0.745">
+              <g id="Groupe_742">
+                <g id="Groupe_741" clip-path="url(#clip-path-79)">
+                  <g id="Groupe_740">
+                    <g id="Groupe_739" clip-path="url(#clip-path-80)">
+                      <path id="Tracé_473" d="M0,15.28V5.521L12.878,9.614l.14,3.035c0,1.631-.457,2.842-2,2.9Z" transform="translate(0 -5.514)" fill="#414141"></path>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g id="Groupe_748" opacity="0.765">
+              <g id="Groupe_747">
+                <g id="Groupe_746" clip-path="url(#clip-path-81)">
+                  <g id="Groupe_745">
+                    <g id="Groupe_744" clip-path="url(#clip-path-82)">
+                      <path id="Tracé_474" d="M0,15.28V5.521L12.562,9.543l.14,3c0,1.6-.421,2.789-1.947,2.86Z" transform="translate(0 -5.514)" fill="#3c3c3c"></path>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g id="Groupe_753" opacity="0.784">
+              <g id="Groupe_752">
+                <g id="Groupe_751" clip-path="url(#clip-path-83)">
+                  <g id="Groupe_750">
+                    <g id="Groupe_749" clip-path="url(#clip-path-84)">
+                      <path id="Tracé_475" d="M0,15.28V5.521L12.23,9.473l.158,2.948c0,1.579-.386,2.754-1.894,2.824Z" transform="translate(0 -5.514)" fill="#373737"></path>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g id="Groupe_758" opacity="0.804">
+              <g id="Groupe_757">
+                <g id="Groupe_756" clip-path="url(#clip-path-85)">
+                  <g id="Groupe_755">
+                    <g id="Groupe_754" clip-path="url(#clip-path-86)">
+                      <path id="Tracé_476" d="M0,15.28V5.521L11.913,9.39l.158,2.93c0,1.544-.351,2.684-1.859,2.789Z" transform="translate(0 -5.514)" fill="#323232"></path>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g id="Groupe_763" opacity="0.824">
+              <g id="Groupe_762">
+                <g id="Groupe_761" clip-path="url(#clip-path-87)">
+                  <g id="Groupe_760">
+                    <g id="Groupe_759" clip-path="url(#clip-path-88)">
+                      <path id="Tracé_477" d="M0,15.28V5.521L11.6,9.316l.158,2.9c0,1.509-.316,2.632-1.807,2.737Z" transform="translate(0 -5.514)" fill="#2d2d2d"></path>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g id="Groupe_768" opacity="0.843">
+              <g id="Groupe_767">
+                <g id="Groupe_766" clip-path="url(#clip-path-89)">
+                  <g id="Groupe_765">
+                    <g id="Groupe_764" clip-path="url(#clip-path-90)">
+                      <path id="Tracé_478" d="M0,15.28V5.521L11.281,9.24l.158,2.86c0,1.474-.281,2.579-1.772,2.7Z" transform="translate(0 -5.514)" fill="#282828"></path>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g id="Groupe_773" opacity="0.863">
+              <g id="Groupe_772">
+                <g id="Groupe_771" clip-path="url(#clip-path-91)">
+                  <g id="Groupe_770">
+                    <g id="Groupe_769" clip-path="url(#clip-path-92)">
+                      <path id="Tracé_479" d="M0,15.28V5.521L10.964,9.175,11.123,12c0,1.439-.25,2.508-1.72,2.649Z" transform="translate(0 -5.514)" fill="#232323"></path>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g id="Groupe_778" opacity="0.882">
+              <g id="Groupe_777">
+                <g id="Groupe_776" clip-path="url(#clip-path-93)">
+                  <g id="Groupe_775">
+                    <g id="Groupe_774" clip-path="url(#clip-path-94)">
+                      <path id="Tracé_480" d="M0,15.28V5.521L10.649,9.088l.158,2.807c0,1.4-.211,2.456-1.685,2.614Z" transform="translate(0 -5.514)" fill="#1e1e1e"></path>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g id="Groupe_783" opacity="0.902">
+              <g id="Groupe_782">
+                <g id="Groupe_781" clip-path="url(#clip-path-95)">
+                  <g id="Groupe_780">
+                    <g id="Groupe_779" clip-path="url(#clip-path-96)">
+                      <path id="Tracé_481" d="M0,15.28V5.521L10.315,9.015l.176,2.754c0,1.386-.176,2.421-1.631,2.579Z" transform="translate(0 -5.514)" fill="#191919"></path>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g id="Groupe_788" opacity="0.922">
+              <g id="Groupe_787">
+                <g id="Groupe_786" clip-path="url(#clip-path-97)">
+                  <g id="Groupe_785">
+                    <g id="Groupe_784" clip-path="url(#clip-path-98)">
+                      <path id="Tracé_482" d="M0,15.28V5.521L10,8.947l.176,2.719c0,1.35-.14,2.371-1.6,2.543Z" transform="translate(0 -5.514)" fill="#141414"></path>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g id="Groupe_793" opacity="0.941">
+              <g id="Groupe_792">
+                <g id="Groupe_791" clip-path="url(#clip-path-99)">
+                  <g id="Groupe_790">
+                    <g id="Groupe_789" clip-path="url(#clip-path-100)">
+                      <path id="Tracé_483" d="M0,15.28V5.521L9.684,8.877l.175,2.684c0,1.315-.1,2.3-1.544,2.5Z" transform="translate(0 -5.514)" fill="#0f0f0f"></path>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g id="Groupe_798" opacity="0.961">
+              <g id="Groupe_797">
+                <g id="Groupe_796" clip-path="url(#clip-path-101)">
+                  <g id="Groupe_795">
+                    <g id="Groupe_794" clip-path="url(#clip-path-102)">
+                      <path id="Tracé_484" d="M0,15.28V5.521L9.368,8.807l.176,2.649c0,1.28-.07,2.246-1.509,2.456Z" transform="translate(0 -5.514)" fill="#0a0a0a"></path>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g id="Groupe_803" opacity="0.98">
+              <g id="Groupe_802">
+                <g id="Groupe_801" clip-path="url(#clip-path-103)">
+                  <g id="Groupe_800">
+                    <g id="Groupe_799" clip-path="url(#clip-path-104)">
+                      <path id="Tracé_485" d="M0,15.28V5.521l9.053,3.2.176,2.632c0,1.263-.035,2.193-1.456,2.421Z" transform="translate(0 -5.514)" fill="#050505"></path>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="Groupe_807" transform="translate(0 6.882)">
+          <g id="Groupe_806" clip-path="url(#clip-path-105)">
+            <path id="Tracé_486" d="M0,15.28V5.521l8.719,3.12.193,2.6c0,1.228,0,2.122-1.4,2.371Z" transform="translate(0 -5.514)"></path>
+          </g>
+        </g>
+        <rect id="Rectangle_330" width="8.334" height="16.649" transform="translate(16.649 0)" fill="#ec2938"></rect>
+        <rect id="Rectangle_331" width="8.334" height="16.649" transform="translate(0 0)" fill="#062493"></rect>
+        <rect id="Rectangle_332" width="8.316" height="16.649" transform="translate(8.334 0)" fill="#fff"></rect>
+      </g>
+    </g>
+  </symbol>
+  <!--END - FRANCE ICON-->
+
+  <!--LANGS-->
+  <!--EN-->
+  <symbol id="en" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 19.756 17.878">
+    <defs>
+      <clipPath id="clip-path">
+        <rect id="Rectangle_438" width="19.756" height="17.878" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-2">
+        <rect id="Rectangle_436" width="19.749" height="12.43" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-3">
+        <rect id="Rectangle_335" width="19.753" height="12.437" transform="translate(0.003 5.441)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-4">
+        <rect id="Rectangle_334" width="19.748" height="12.43" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-5">
+        <rect id="Rectangle_337" width="19.504" height="12.315" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-6">
+        <rect id="Rectangle_336" width="19.498" height="12.311" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-7">
+        <rect id="Rectangle_339" width="19.254" height="12.196" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-8">
+        <rect id="Rectangle_338" width="19.25" height="12.191" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-9">
+        <rect id="Rectangle_341" width="19.001" height="12.072" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-10">
+        <rect id="Rectangle_340" width="19.001" height="12.071" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-11">
+        <rect id="Rectangle_343" width="18.755" height="11.958" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-12">
+        <rect id="Rectangle_342" width="18.751" height="11.952" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-13">
+        <rect id="Rectangle_345" width="18.506" height="11.842" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-14">
+        <rect id="Rectangle_344" width="18.502" height="11.832" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-15">
+        <rect id="Rectangle_347" width="18.256" height="11.712" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-16">
+        <rect id="Rectangle_346" width="18.253" height="11.712" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-17">
+        <rect id="Rectangle_349" width="18.007" height="11.601" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-18">
+        <rect id="Rectangle_348" width="18.004" height="11.592" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-19">
+        <rect id="Rectangle_351" width="17.757" height="11.474" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-20">
+        <rect id="Rectangle_350" width="17.754" height="11.473" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-21">
+        <rect id="Rectangle_353" width="17.508" height="11.359" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-22">
+        <rect id="Rectangle_352" width="17.505" height="11.353" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-23">
+        <rect id="Rectangle_355" width="17.258" height="11.238" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-24">
+        <rect id="Rectangle_354" width="17.257" height="11.234" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-25">
+        <rect id="Rectangle_357" width="17.009" height="11.116" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-26">
+        <rect id="Rectangle_356" width="17.007" height="11.115" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-27">
+        <rect id="Rectangle_359" width="16.759" height="10.995" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-28">
+        <rect id="Rectangle_358" width="16.758" height="10.995" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-29">
+        <rect id="Rectangle_361" width="16.51" height="10.88" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-30">
+        <rect id="Rectangle_360" width="16.508" height="10.876" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-31">
+        <rect id="Rectangle_363" width="16.26" height="10.765" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-32">
+        <rect id="Rectangle_362" width="16.26" height="10.756" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-33">
+        <rect id="Rectangle_365" width="16.01" height="10.64" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-34">
+        <rect id="Rectangle_364" width="16.01" height="10.638" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-35">
+        <rect id="Rectangle_367" width="15.761" height="10.526" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-36">
+        <rect id="Rectangle_366" width="15.761" height="10.518" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-37">
+        <rect id="Rectangle_369" width="15.513" height="10.399" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-39">
+        <rect id="Rectangle_371" width="15.263" height="10.289" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-40">
+        <rect id="Rectangle_370" width="15.263" height="10.279" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-41">
+        <rect id="Rectangle_373" width="15.014" height="10.162" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-42">
+        <rect id="Rectangle_372" width="15.014" height="10.161" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-43">
+        <rect id="Rectangle_375" width="14.764" height="10.049" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-44">
+        <rect id="Rectangle_374" width="14.764" height="10.043" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-45">
+        <rect id="Rectangle_377" width="14.516" height="9.923" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-47">
+        <rect id="Rectangle_379" width="14.267" height="9.805" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-49">
+        <rect id="Rectangle_381" width="14.017" height="9.69" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-50">
+        <rect id="Rectangle_380" width="14.017" height="9.686" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-51">
+        <rect id="Rectangle_383" width="13.769" height="9.572" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-52">
+        <rect id="Rectangle_382" width="13.768" height="9.567" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-53">
+        <rect id="Rectangle_385" width="13.519" height="9.458" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-54">
+        <rect id="Rectangle_384" width="13.519" height="9.448" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-55">
+        <rect id="Rectangle_387" width="13.27" height="9.332" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-56">
+        <rect id="Rectangle_386" width="13.27" height="9.33" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-57">
+        <rect id="Rectangle_389" width="13.021" height="9.217" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-58">
+        <rect id="Rectangle_388" width="13.021" height="9.211" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-59">
+        <rect id="Rectangle_391" width="12.771" height="9.093" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-61">
+        <rect id="Rectangle_393" width="12.523" height="8.982" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-62">
+        <rect id="Rectangle_392" width="12.523" height="8.976" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-63">
+        <rect id="Rectangle_395" width="12.273" height="8.857" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-65">
+        <rect id="Rectangle_397" width="12.024" height="8.744" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-66">
+        <rect id="Rectangle_396" width="12.024" height="8.74" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-67">
+        <rect id="Rectangle_399" width="11.774" height="8.632" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-68">
+        <rect id="Rectangle_398" width="11.774" height="8.622" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-69">
+        <rect id="Rectangle_401" width="11.526" height="8.509" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-70">
+        <rect id="Rectangle_400" width="11.526" height="8.505" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-71">
+        <rect id="Rectangle_403" width="11.287" height="8.396" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-72">
+        <rect id="Rectangle_402" width="11.277" height="8.387" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-73">
+        <rect id="Rectangle_405" width="11.034" height="8.271" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-74">
+        <rect id="Rectangle_404" width="11.027" height="8.27" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-75">
+        <rect id="Rectangle_407" width="10.778" height="8.162" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-76">
+        <rect id="Rectangle_406" width="10.778" height="8.152" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-77">
+        <rect id="Rectangle_409" width="10.535" height="8.036" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-78">
+        <rect id="Rectangle_408" width="10.529" height="8.036" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-79">
+        <rect id="Rectangle_411" width="10.286" height="7.923" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-80">
+        <rect id="Rectangle_410" width="10.28" height="7.919" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-81">
+        <rect id="Rectangle_413" width="10.036" height="7.802" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-82">
+        <rect id="Rectangle_412" width="10.031" height="7.802" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-83">
+        <rect id="Rectangle_415" width="9.787" height="7.717" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-84">
+        <rect id="Rectangle_414" width="9.781" height="7.713" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-85">
+        <rect id="Rectangle_417" width="9.537" height="7.717" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-86">
+        <rect id="Rectangle_416" width="9.533" height="7.713" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-87">
+        <rect id="Rectangle_419" width="9.288" height="7.717" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-88">
+        <rect id="Rectangle_418" width="9.283" height="7.713" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-89">
+        <rect id="Rectangle_421" width="9.038" height="7.717" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-90">
+        <rect id="Rectangle_420" width="9.034" height="7.713" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-91">
+        <rect id="Rectangle_423" width="8.789" height="7.717" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-92">
+        <rect id="Rectangle_422" width="8.784" height="7.713" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-93">
+        <rect id="Rectangle_425" width="8.539" height="7.717" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-94">
+        <rect id="Rectangle_424" width="8.536" height="7.713" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-95">
+        <rect id="Rectangle_427" width="8.29" height="7.717" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-96">
+        <rect id="Rectangle_426" width="8.287" height="7.713" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-97">
+        <rect id="Rectangle_429" width="8.04" height="7.717" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-98">
+        <rect id="Rectangle_428" width="8.037" height="7.713" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-99">
+        <rect id="Rectangle_431" width="7.79" height="7.717" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-100">
+        <rect id="Rectangle_430" width="7.788" height="7.713" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-101">
+        <rect id="Rectangle_433" width="7.539" height="7.717" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-102">
+        <rect id="Rectangle_432" width="7.539" height="7.713" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-103">
+        <rect id="Rectangle_435" width="7.292" height="7.717" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-104">
+        <rect id="Rectangle_434" width="7.29" height="7.713" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-105">
+        <rect id="Rectangle_437" width="7.042" height="7.713" transform="translate(0.003 5.448)" fill="none"></rect>
+      </clipPath>
+    </defs>
+    <g id="Groupe_1069" clip-path="url(#clip-path)">
+      <g id="Groupe_1066">
+        <g id="Groupe_1065" clip-path="url(#clip-path-2)">
+          <g id="Groupe_814" opacity="0">
+            <g id="Groupe_813">
+              <g id="Groupe_812" clip-path="url(#clip-path-3)">
+                <g id="Groupe_811">
+                  <g id="Groupe_810" clip-path="url(#clip-path-4)">
+                    <path id="Tracé_487" d="M16.859,17.809,0,13.151V5.441l19.753,5.451V14.33c0,2.218-1.4,3.9-2.9,3.479" fill="#fff"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_819" opacity="0.02">
+            <g id="Groupe_818">
+              <g id="Groupe_817" clip-path="url(#clip-path-5)">
+                <g id="Groupe_816">
+                  <g id="Groupe_815" clip-path="url(#clip-path-6)">
+                    <path id="Tracé_488" d="M0,13.165V5.454l19.49,5.4.014,3.41c0,2.19-1.372,3.84-2.869,3.438Z" fill="#fafafa"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_824" opacity="0.039">
+            <g id="Groupe_823">
+              <g id="Groupe_822" clip-path="url(#clip-path-7)">
+                <g id="Groupe_821">
+                  <g id="Groupe_820" clip-path="url(#clip-path-8)">
+                    <path id="Tracé_489" d="M0,13.165V5.454L19.243,10.8l.014,3.368c0,2.176-1.345,3.812-2.828,3.424Z" fill="#f5f5f5"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_829" opacity="0.059">
+            <g id="Groupe_828">
+              <g id="Groupe_827" clip-path="url(#clip-path-9)">
+                <g id="Groupe_826">
+                  <g id="Groupe_825" clip-path="url(#clip-path-10)">
+                    <path id="Tracé_490" d="M0,13.165V5.454l18.991,5.272L19,14.08c0,2.149-1.317,3.77-2.8,3.382Z" fill="#f0f0f0"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_834" opacity="0.078">
+            <g id="Groupe_833">
+              <g id="Groupe_832" clip-path="url(#clip-path-11)">
+                <g id="Groupe_831">
+                  <g id="Groupe_830" clip-path="url(#clip-path-12)">
+                    <path id="Tracé_491" d="M0,13.165V5.454L18.744,10.67,18.758,14c0,2.121-1.289,3.729-2.759,3.355Z" fill="#ebebeb"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_839" opacity="0.098">
+            <g id="Groupe_838">
+              <g id="Groupe_837" clip-path="url(#clip-path-13)">
+                <g id="Groupe_836">
+                  <g id="Groupe_835" clip-path="url(#clip-path-14)">
+                    <path id="Tracé_492" d="M0,13.165V5.454L18.5,10.615l.014,3.3c0,2.093-1.261,3.673-2.731,3.327Z" fill="#e6e6e6"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_844" opacity="0.118">
+            <g id="Groupe_843">
+              <g id="Groupe_842" clip-path="url(#clip-path-15)">
+                <g id="Groupe_841">
+                  <g id="Groupe_840" clip-path="url(#clip-path-16)">
+                    <path id="Tracé_493" d="M0,13.165V5.454l18.242,5.1.014,3.271c0,2.065-1.234,3.632-2.689,3.285Z" fill="#e1e1e1"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_849" opacity="0.137">
+            <g id="Groupe_848">
+              <g id="Groupe_847" clip-path="url(#clip-path-17)">
+                <g id="Groupe_846">
+                  <g id="Groupe_845" clip-path="url(#clip-path-18)">
+                    <path id="Tracé_494" d="M0,13.165V5.454L17.982,10.5l.028,3.23c0,2.052-1.206,3.6-2.661,3.271Z" fill="#dcdcdc"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_854" opacity="0.157">
+            <g id="Groupe_853">
+              <g id="Groupe_852" clip-path="url(#clip-path-19)">
+                <g id="Groupe_851">
+                  <g id="Groupe_850" clip-path="url(#clip-path-20)">
+                    <path id="Tracé_495" d="M0,13.165V5.454l17.729,4.98.028,3.216c0,2.024-1.178,3.549-2.62,3.23Z" fill="#d7d7d7"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_859" opacity="0.176">
+            <g id="Groupe_858">
+              <g id="Groupe_857" clip-path="url(#clip-path-21)">
+                <g id="Groupe_856">
+                  <g id="Groupe_855" clip-path="url(#clip-path-22)">
+                    <path id="Tracé_496" d="M0,13.165V5.454l17.48,4.925.028,3.188c0,2-1.151,3.507-2.578,3.2Z" fill="#d2d2d2"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_864" opacity="0.196">
+            <g id="Groupe_863">
+              <g id="Groupe_862" clip-path="url(#clip-path-23)">
+                <g id="Groupe_861">
+                  <g id="Groupe_860" clip-path="url(#clip-path-24)">
+                    <path id="Tracé_497" d="M0,13.165V5.454l17.23,4.87.028,3.161c0,1.982-1.123,3.465-2.551,3.161Z" fill="#cdcdcd"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_869" opacity="0.216">
+            <g id="Groupe_868">
+              <g id="Groupe_867" clip-path="url(#clip-path-25)">
+                <g id="Groupe_866">
+                  <g id="Groupe_865" clip-path="url(#clip-path-26)">
+                    <path id="Tracé_498" d="M0,13.165V5.454l16.981,4.81.028,3.133c0,1.955-1.1,3.41-2.509,3.133Z" fill="#c8c8c8"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_874" opacity="0.235">
+            <g id="Groupe_873">
+              <g id="Groupe_872" clip-path="url(#clip-path-27)">
+                <g id="Groupe_871">
+                  <g id="Groupe_870" clip-path="url(#clip-path-28)">
+                    <path id="Tracé_499" d="M0,13.165V5.454L16.72,10.2l.042,3.119c0,1.927-1.067,3.368-2.481,3.091Z" fill="#c3c3c3"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_879" opacity="0.255">
+            <g id="Groupe_878">
+              <g id="Groupe_877" clip-path="url(#clip-path-29)">
+                <g id="Groupe_876">
+                  <g id="Groupe_875" clip-path="url(#clip-path-30)">
+                    <path id="Tracé_500" d="M0,13.165V5.454l16.468,4.689.042,3.077c0,1.913-1.04,3.341-2.44,3.077Z" fill="#bebebe"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_884" opacity="0.275">
+            <g id="Groupe_883">
+              <g id="Groupe_882" clip-path="url(#clip-path-31)">
+                <g id="Groupe_881">
+                  <g id="Groupe_880" clip-path="url(#clip-path-32)">
+                    <path id="Tracé_501" d="M0,13.165V5.454l16.218,4.63.042,3.05c0,1.885-1.012,3.3-2.412,3.05Z" fill="#b9b9b9"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_889" opacity="0.294">
+            <g id="Groupe_888">
+              <g id="Groupe_887" clip-path="url(#clip-path-33)">
+                <g id="Groupe_886">
+                  <g id="Groupe_885" clip-path="url(#clip-path-34)">
+                    <path id="Tracé_502" d="M0,13.165V5.454l15.969,4.578.041,3.022c0,1.857-.984,3.244-2.37,3.008Z" fill="#b4b4b4"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_894" opacity="0.314">
+            <g id="Groupe_893">
+              <g id="Groupe_892" clip-path="url(#clip-path-35)">
+                <g id="Groupe_891">
+                  <g id="Groupe_890" clip-path="url(#clip-path-36)">
+                    <path id="Tracé_503" d="M0,13.165V5.454L15.722,9.977l.042,2.994c0,1.83-.956,3.2-2.343,2.98Z" fill="#afafaf"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_899" opacity="0.333">
+            <g id="Groupe_898">
+              <g id="Groupe_897" clip-path="url(#clip-path-37)">
+                <g id="Groupe_896">
+                  <g id="Groupe_895" clip-path="url(#clip-path-37)">
+                    <path id="Tracé_504" d="M0,13.165V5.454L15.473,9.9l.042,2.98c0,1.8-.929,3.161-2.3,2.939Z" fill="#aaa"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_904" opacity="0.353">
+            <g id="Groupe_903">
+              <g id="Groupe_902" clip-path="url(#clip-path-39)">
+                <g id="Groupe_901">
+                  <g id="Groupe_900" clip-path="url(#clip-path-40)">
+                    <path id="Tracé_505" d="M0,13.165V5.454l15.207,4.4.055,2.939c0,1.788-.9,3.119-2.273,2.925Z" fill="#a5a5a5"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_909" opacity="0.373">
+            <g id="Groupe_908">
+              <g id="Groupe_907" clip-path="url(#clip-path-41)">
+                <g id="Groupe_906">
+                  <g id="Groupe_905" clip-path="url(#clip-path-42)">
+                    <path id="Tracé_506" d="M0,13.165V5.454L14.96,9.8l.055,2.911c0,1.76-.873,3.077-2.232,2.883Z" fill="#a0a0a0"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_914" opacity="0.392">
+            <g id="Groupe_913">
+              <g id="Groupe_912" clip-path="url(#clip-path-43)">
+                <g id="Groupe_911">
+                  <g id="Groupe_910" clip-path="url(#clip-path-44)">
+                    <path id="Tracé_507" d="M0,13.165V5.454L14.71,9.741l.055,2.883c0,1.733-.846,3.036-2.19,2.856Z" fill="#9b9b9b"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_919" opacity="0.412">
+            <g id="Groupe_918">
+              <g id="Groupe_917" clip-path="url(#clip-path-45)">
+                <g id="Groupe_916">
+                  <g id="Groupe_915" clip-path="url(#clip-path-45)">
+                    <path id="Tracé_508" d="M0,13.165V5.454L14.461,9.686l.055,2.856c0,1.7-.818,2.98-2.162,2.814Z" fill="#969696"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_924" opacity="0.431">
+            <g id="Groupe_923">
+              <g id="Groupe_922" clip-path="url(#clip-path-47)">
+                <g id="Groupe_921">
+                  <g id="Groupe_920" clip-path="url(#clip-path-47)">
+                    <path id="Tracé_509" d="M0,13.165V5.454L14.211,9.617l.056,2.837c0,1.677-.79,2.939-2.121,2.786Z" fill="#919191"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_929" opacity="0.451">
+            <g id="Groupe_928">
+              <g id="Groupe_927" clip-path="url(#clip-path-49)">
+                <g id="Groupe_926">
+                  <g id="Groupe_925" clip-path="url(#clip-path-50)">
+                    <path id="Tracé_510" d="M0,13.165V5.454l13.959,4.1.055,2.814c0,1.65-.762,2.9-2.093,2.759Z" fill="#8c8c8c"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_934" opacity="0.471">
+            <g id="Groupe_933">
+              <g id="Groupe_932" clip-path="url(#clip-path-51)">
+                <g id="Groupe_931">
+                  <g id="Groupe_930" clip-path="url(#clip-path-52)">
+                    <path id="Tracé_511" d="M0,13.165V5.454L13.7,9.506l.069,2.772c0,1.636-.735,2.869-2.052,2.731Z" fill="#878787"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_939" opacity="0.49">
+            <g id="Groupe_938">
+              <g id="Groupe_937" clip-path="url(#clip-path-53)">
+                <g id="Groupe_936">
+                  <g id="Groupe_935" clip-path="url(#clip-path-54)">
+                    <path id="Tracé_512" d="M0,13.165V5.454l13.446,4,.069,2.745c0,1.608-.707,2.814-2.024,2.7Z" fill="#828282"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_944" opacity="0.51">
+            <g id="Groupe_943">
+              <g id="Groupe_942" clip-path="url(#clip-path-55)">
+                <g id="Groupe_941">
+                  <g id="Groupe_940" clip-path="url(#clip-path-56)">
+                    <path id="Tracé_513" d="M0,13.165V5.454L13.2,9.381l.069,2.731c0,1.58-.679,2.772-1.982,2.661Z" fill="#7d7d7d"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_949" opacity="0.529">
+            <g id="Groupe_948">
+              <g id="Groupe_947" clip-path="url(#clip-path-57)">
+                <g id="Groupe_946">
+                  <g id="Groupe_945" clip-path="url(#clip-path-58)">
+                    <path id="Tracé_514" d="M0,13.165V5.454L12.95,9.325l.069,2.7c0,1.553-.652,2.731-1.955,2.634Z" fill="#787878"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_954" opacity="0.549">
+            <g id="Groupe_953">
+              <g id="Groupe_952" clip-path="url(#clip-path-59)">
+                <g id="Groupe_951">
+                  <g id="Groupe_950" clip-path="url(#clip-path-59)">
+                    <path id="Tracé_515" d="M0,13.165V5.454L12.7,9.27l.069,2.675c0,1.525-.624,2.675-1.913,2.592Z" fill="#737373"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_959" opacity="0.569">
+            <g id="Groupe_958">
+              <g id="Groupe_957" clip-path="url(#clip-path-61)">
+                <g id="Groupe_956">
+                  <g id="Groupe_955" clip-path="url(#clip-path-62)">
+                    <path id="Tracé_516" d="M0,13.165V5.454L12.451,9.215l.069,2.634c0,1.511-.6,2.648-1.871,2.578Z" fill="#6e6e6e"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_964" opacity="0.588">
+            <g id="Groupe_963">
+              <g id="Groupe_962" clip-path="url(#clip-path-63)">
+                <g id="Groupe_961">
+                  <g id="Groupe_960" clip-path="url(#clip-path-63)">
+                    <path id="Tracé_517" d="M0,13.165V5.454l12.185,3.7.083,2.606c0,1.5-.568,2.606-1.844,2.537Z" fill="#696969"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_969" opacity="0.608">
+            <g id="Groupe_968">
+              <g id="Groupe_967" clip-path="url(#clip-path-65)">
+                <g id="Groupe_966">
+                  <g id="Groupe_965" clip-path="url(#clip-path-66)">
+                    <path id="Tracé_518" d="M0,13.165V5.454L11.938,9.09l.083,2.592c0,1.469-.541,2.551-1.8,2.509Z" fill="#646464"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_974" opacity="0.627">
+            <g id="Groupe_973">
+              <g id="Groupe_972" clip-path="url(#clip-path-67)">
+                <g id="Groupe_971">
+                  <g id="Groupe_970" clip-path="url(#clip-path-68)">
+                    <path id="Tracé_519" d="M0,13.165V5.454l11.686,3.58.083,2.564c0,1.442-.513,2.509-1.774,2.481Z" fill="#5f5f5f"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_979" opacity="0.647">
+            <g id="Groupe_978">
+              <g id="Groupe_977" clip-path="url(#clip-path-69)">
+                <g id="Groupe_976">
+                  <g id="Groupe_975" clip-path="url(#clip-path-70)">
+                    <path id="Tracé_520" d="M0,13.165V5.454L11.439,8.979l.083,2.537c0,1.414-.485,2.467-1.733,2.44Z" fill="#5a5a5a"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_984" opacity="0.667">
+            <g id="Groupe_983">
+              <g id="Groupe_982" clip-path="url(#clip-path-71)">
+                <g id="Groupe_981">
+                  <g id="Groupe_980" clip-path="url(#clip-path-72)">
+                    <path id="Tracé_521" d="M0,13.165V5.454L11.19,8.923l.1,2.509c0,1.386-.471,2.412-1.719,2.412Z" fill="#555"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_989" opacity="0.686">
+            <g id="Groupe_988">
+              <g id="Groupe_987" clip-path="url(#clip-path-73)">
+                <g id="Groupe_986">
+                  <g id="Groupe_985" clip-path="url(#clip-path-74)">
+                    <path id="Tracé_522" d="M0,13.165V5.454l10.923,3.4.111,2.481c0,1.372-.444,2.384-1.677,2.384Z" fill="#505050"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_994" opacity="0.706">
+            <g id="Groupe_993">
+              <g id="Groupe_992" clip-path="url(#clip-path-75)">
+                <g id="Groupe_991">
+                  <g id="Groupe_990" clip-path="url(#clip-path-76)">
+                    <path id="Tracé_523" d="M0,13.165V5.454L10.677,8.8l.1,2.454c0,1.345-.4,2.343-1.636,2.357Z" fill="#4b4b4b"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_999" opacity="0.725">
+            <g id="Groupe_998">
+              <g id="Groupe_997" clip-path="url(#clip-path-77)">
+                <g id="Groupe_996">
+                  <g id="Groupe_995" clip-path="url(#clip-path-78)">
+                    <path id="Tracé_524" d="M0,13.165V5.454L10.427,8.743l.111,2.426c0,1.317-.388,2.3-1.608,2.315Z" fill="#464646"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_1004" opacity="0.745">
+            <g id="Groupe_1003">
+              <g id="Groupe_1002" clip-path="url(#clip-path-79)">
+                <g id="Groupe_1001">
+                  <g id="Groupe_1000" clip-path="url(#clip-path-80)">
+                    <path id="Tracé_525" d="M0,13.165V5.454l10.175,3.23.111,2.4c0,1.289-.36,2.246-1.58,2.287Z" fill="#414141"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_1009" opacity="0.765">
+            <g id="Groupe_1008">
+              <g id="Groupe_1007" clip-path="url(#clip-path-81)">
+                <g id="Groupe_1006">
+                  <g id="Groupe_1005" clip-path="url(#clip-path-82)">
+                    <path id="Tracé_526" d="M0,13.165V5.454L9.928,8.632,10.039,11c0,1.261-.333,2.2-1.539,2.246Z" fill="#3c3c3c"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_1014" opacity="0.784">
+            <g id="Groupe_1013">
+              <g id="Groupe_1012" clip-path="url(#clip-path-83)">
+                <g id="Groupe_1011">
+                  <g id="Groupe_1010" clip-path="url(#clip-path-84)">
+                    <path id="Tracé_527" d="M0,13.165V5.454L9.665,8.563l.125,2.343c0,1.248-.3,2.176-1.5,2.232Z" fill="#373737"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_1019" opacity="0.804">
+            <g id="Groupe_1018">
+              <g id="Groupe_1017" clip-path="url(#clip-path-85)">
+                <g id="Groupe_1016">
+                  <g id="Groupe_1015" clip-path="url(#clip-path-86)">
+                    <path id="Tracé_528" d="M0,13.165V5.454L9.415,8.5l.125,2.315c0,1.22-.277,2.121-1.469,2.2Z" fill="#323232"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_1024" opacity="0.824">
+            <g id="Groupe_1023">
+              <g id="Groupe_1022" clip-path="url(#clip-path-87)">
+                <g id="Groupe_1021">
+                  <g id="Groupe_1020" clip-path="url(#clip-path-88)">
+                    <path id="Tracé_529" d="M0,13.165V5.454l9.163,3,.125,2.287c0,1.192-.25,2.079-1.428,2.162Z" fill="#2d2d2d"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_1029" opacity="0.843">
+            <g id="Groupe_1028">
+              <g id="Groupe_1027" clip-path="url(#clip-path-89)">
+                <g id="Groupe_1026">
+                  <g id="Groupe_1025" clip-path="url(#clip-path-90)">
+                    <path id="Tracé_530" d="M0,13.165V5.454L8.916,8.4l.125,2.257c0,1.164-.222,2.038-1.4,2.135Z" fill="#282828"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_1034" opacity="0.863">
+            <g id="Groupe_1033">
+              <g id="Groupe_1032" clip-path="url(#clip-path-91)">
+                <g id="Groupe_1031">
+                  <g id="Groupe_1030" clip-path="url(#clip-path-92)">
+                    <path id="Tracé_531" d="M0,13.165V5.454L8.667,8.341l.125,2.232c0,1.137-.194,2-1.358,2.093Z" fill="#232323"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_1039" opacity="0.882">
+            <g id="Groupe_1038">
+              <g id="Groupe_1037" clip-path="url(#clip-path-93)">
+                <g id="Groupe_1036">
+                  <g id="Groupe_1035" clip-path="url(#clip-path-94)">
+                    <path id="Tracé_532" d="M0,13.165V5.454L8.417,8.272l.125,2.218c0,1.109-.166,1.941-1.331,2.065Z" fill="#1e1e1e"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_1044" opacity="0.902">
+            <g id="Groupe_1043">
+              <g id="Groupe_1042" clip-path="url(#clip-path-95)">
+                <g id="Groupe_1041">
+                  <g id="Groupe_1040" clip-path="url(#clip-path-96)">
+                    <path id="Tracé_533" d="M0,13.165V5.454L8.168,8.217l.125,2.176c0,1.1-.139,1.913-1.289,2.038Z" fill="#191919"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_1049" opacity="0.922">
+            <g id="Groupe_1048">
+              <g id="Groupe_1047" clip-path="url(#clip-path-97)">
+                <g id="Groupe_1046">
+                  <g id="Groupe_1045" clip-path="url(#clip-path-98)">
+                    <path id="Tracé_534" d="M0,13.165V5.454l7.9,2.7.14,2.156c0,1.067-.111,1.871-1.248,2.01Z" fill="#141414"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_1054" opacity="0.941">
+            <g id="Groupe_1053">
+              <g id="Groupe_1052" clip-path="url(#clip-path-99)">
+                <g id="Groupe_1051">
+                  <g id="Groupe_1050" clip-path="url(#clip-path-100)">
+                    <path id="Tracé_535" d="M0,13.165V5.454L7.655,8.106l.138,2.12c0,1.04-.083,1.816-1.22,1.968Z" fill="#0f0f0f"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_1059" opacity="0.961">
+            <g id="Groupe_1058">
+              <g id="Groupe_1057" clip-path="url(#clip-path-101)">
+                <g id="Groupe_1056">
+                  <g id="Groupe_1055" clip-path="url(#clip-path-102)">
+                    <path id="Tracé_536" d="M0,13.165V5.454L7.4,8.036l.139,2.107c0,1.012-.055,1.774-1.178,1.941Z" fill="#0a0a0a"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_1064" opacity="0.98">
+            <g id="Groupe_1063">
+              <g id="Groupe_1062" clip-path="url(#clip-path-103)">
+                <g id="Groupe_1061">
+                  <g id="Groupe_1060" clip-path="url(#clip-path-104)">
+                    <path id="Tracé_537" d="M0,13.165V5.454L7.156,7.981,7.3,10.06c0,1-.028,1.733-1.151,1.913Z" fill="#050505"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Groupe_1068">
+        <g id="Groupe_1067" clip-path="url(#clip-path-105)">
+          <path id="Tracé_538" d="M0,13.165V5.454L6.9,7.925l.139,2.038c0,.984,0,1.691-1.109,1.885Z"></path>
+        </g>
+      </g>
+      <path id="Tracé_539" d="M0,8.771V11.71L4.4,8.771Z" fill="#04247b"></path>
+      <path id="Tracé_540" d="M2.223,0,8.239,4.019V0Z" fill="#04247b"></path>
+      <path id="Tracé_541" d="M0,4.392H4.4L0,1.467Z" fill="#04247b"></path>
+      <path id="Tracé_542" d="M15.361,4.392h4.392V1.467Z" fill="#04247b"></path>
+      <path id="Tracé_543" d="M11.518,0V4.019L17.534,0Z" fill="#04247b"></path>
+      <path id="Tracé_544" d="M15.361,8.771l4.392,2.939V8.771Z" fill="#04247b"></path>
+      <path id="Tracé_545" d="M2.223,13.162H8.239V9.156Z" fill="#04247b"></path>
+      <path id="Tracé_546" d="M11.518,13.162h6.016L11.518,9.156Z" fill="#04247b"></path>
+      <path id="Tracé_547" d="M19.739,0l-6.57,4.389H11.685L18.27,0h-.735L11.519,4.019V0H8.234V4.019L2.218,0H.015l6.57,4.389H5.115L0,.97v.5L4.394,4.389H0V8.77H4.394L0,11.7v1.469L6.585,8.775H8.067l-6.6,4.394h.749L8.232,9.163v4.006h3.286V9.163l6.015,4.006h2.19L13.152,8.775h1.47L19.75,12.2v-.5L15.356,8.773H19.75V4.389H15.36L19.753,1.47V0Z" fill="#fff"></path>
+      <path id="Tracé_548" d="M0,0V.969l5.116,3.42H6.587L.017,0Z" fill="#ce152a"></path>
+      <path id="Tracé_549" d="M13.153,8.771l6.57,4.394h.029v-.97L14.623,8.771Z" fill="#ce152a"></path>
+      <path id="Tracé_550" d="M18.267,0,11.683,4.389h1.483L19.739,0Z" fill="#ce152a"></path>
+      <path id="Tracé_551" d="M6.591,8.771.007,13.165H1.476L8.061,8.771Z" fill="#ce152a"></path>
+      <path id="Tracé_552" d="M8.885,0V5.268H0V7.9H8.885V13.17h1.982V7.9h8.886V5.268H10.869V0Z" fill="#ce152a"></path>
+    </g>
+  </symbol>
+
+  <!--NL-->
+  <symbol id="nl" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 19.95 18.06">
+    <defs>
+      <clipPath id="clip-path">
+        <rect id="Rectangle_546" width="19.95" height="18.06" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-2">
+        <rect id="Rectangle_541" width="19.945" height="12.554" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-3">
+        <rect id="Rectangle_440" width="19.95" height="12.561" transform="translate(0 5.499)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-5">
+        <rect id="Rectangle_442" width="19.698" height="12.437" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-6">
+        <rect id="Rectangle_441" width="19.692" height="12.433" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-7">
+        <rect id="Rectangle_444" width="19.446" height="12.312" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-8">
+        <rect id="Rectangle_443" width="19.442" height="12.312" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-9">
+        <rect id="Rectangle_446" width="19.194" height="12.198" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-10">
+        <rect id="Rectangle_445" width="19.19" height="12.191" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-11">
+        <rect id="Rectangle_448" width="18.942" height="12.077" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-12">
+        <rect id="Rectangle_447" width="18.938" height="12.07" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-13">
+        <rect id="Rectangle_450" width="18.69" height="11.958" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-14">
+        <rect id="Rectangle_449" width="18.686" height="11.949" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-15">
+        <rect id="Rectangle_452" width="18.438" height="11.829" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-16">
+        <rect id="Rectangle_451" width="18.435" height="11.828" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-17">
+        <rect id="Rectangle_454" width="18.186" height="11.714" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-18">
+        <rect id="Rectangle_453" width="18.183" height="11.708" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-19">
+        <rect id="Rectangle_456" width="17.934" height="11.589" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-20">
+        <rect id="Rectangle_455" width="17.931" height="11.586" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-21">
+        <rect id="Rectangle_458" width="17.682" height="11.47" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-22">
+        <rect id="Rectangle_457" width="17.679" height="11.466" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-23">
+        <rect id="Rectangle_460" width="17.429" height="11.348" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-24">
+        <rect id="Rectangle_459" width="17.429" height="11.346" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-25">
+        <rect id="Rectangle_462" width="17.178" height="11.23" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-26">
+        <rect id="Rectangle_461" width="17.177" height="11.225" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-27">
+        <rect id="Rectangle_464" width="16.926" height="11.105" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-28">
+        <rect id="Rectangle_463" width="16.924" height="11.104" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-29">
+        <rect id="Rectangle_466" width="16.674" height="10.99" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-30">
+        <rect id="Rectangle_465" width="16.673" height="10.983" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-31">
+        <rect id="Rectangle_468" width="16.422" height="10.875" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-32">
+        <rect id="Rectangle_467" width="16.422" height="10.863" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-33">
+        <rect id="Rectangle_470" width="16.17" height="10.742" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-35">
+        <rect id="Rectangle_472" width="15.918" height="10.632" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-36">
+        <rect id="Rectangle_471" width="15.918" height="10.622" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-37">
+        <rect id="Rectangle_474" width="15.666" height="10.508" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-38">
+        <rect id="Rectangle_473" width="15.666" height="10.501" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-39">
+        <rect id="Rectangle_476" width="15.415" height="10.389" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-40">
+        <rect id="Rectangle_475" width="15.415" height="10.382" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-41">
+        <rect id="Rectangle_478" width="15.163" height="10.263" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-42">
+        <rect id="Rectangle_477" width="15.163" height="10.262" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-43">
+        <rect id="Rectangle_480" width="14.911" height="10.149" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-44">
+        <rect id="Rectangle_479" width="14.911" height="10.141" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-45">
+        <rect id="Rectangle_482" width="14.659" height="10.028" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-46">
+        <rect id="Rectangle_481" width="14.659" height="10.022" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-47">
+        <rect id="Rectangle_484" width="14.409" height="9.903" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-48">
+        <rect id="Rectangle_483" width="14.409" height="9.901" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-49">
+        <rect id="Rectangle_486" width="14.157" height="9.793" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-50">
+        <rect id="Rectangle_485" width="14.157" height="9.782" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-51">
+        <rect id="Rectangle_488" width="13.905" height="9.667" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-52">
+        <rect id="Rectangle_487" width="13.905" height="9.661" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-53">
+        <rect id="Rectangle_490" width="13.654" height="9.551" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-54">
+        <rect id="Rectangle_489" width="13.654" height="9.542" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-55">
+        <rect id="Rectangle_492" width="13.402" height="9.425" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-56">
+        <rect id="Rectangle_491" width="13.402" height="9.422" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-57">
+        <rect id="Rectangle_494" width="13.15" height="9.312" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-58">
+        <rect id="Rectangle_493" width="13.15" height="9.303" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-59">
+        <rect id="Rectangle_496" width="12.898" height="9.184" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-61">
+        <rect id="Rectangle_498" width="12.648" height="9.073" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-62">
+        <rect id="Rectangle_497" width="12.648" height="9.064" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-63">
+        <rect id="Rectangle_500" width="12.396" height="8.958" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-64">
+        <rect id="Rectangle_499" width="12.396" height="8.945" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-65">
+        <rect id="Rectangle_502" width="12.144" height="8.831" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-66">
+        <rect id="Rectangle_501" width="12.144" height="8.826" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-67">
+        <rect id="Rectangle_504" width="11.892" height="8.719" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-68">
+        <rect id="Rectangle_503" width="11.892" height="8.707" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-69">
+        <rect id="Rectangle_506" width="11.641" height="8.593" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-70">
+        <rect id="Rectangle_505" width="11.641" height="8.588" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-71">
+        <rect id="Rectangle_508" width="11.4" height="8.476" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-72">
+        <rect id="Rectangle_507" width="11.389" height="8.47" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-73">
+        <rect id="Rectangle_510" width="11.144" height="8.351" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-74">
+        <rect id="Rectangle_509" width="11.137" height="8.351" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-75">
+        <rect id="Rectangle_512" width="10.885" height="8.242" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-76">
+        <rect id="Rectangle_511" width="10.885" height="8.233" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-77">
+        <rect id="Rectangle_514" width="10.64" height="8.116" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-78">
+        <rect id="Rectangle_513" width="10.634" height="8.116" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-79">
+        <rect id="Rectangle_516" width="10.388" height="8.004" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-80">
+        <rect id="Rectangle_515" width="10.382" height="7.997" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-81">
+        <rect id="Rectangle_518" width="10.136" height="7.888" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-82">
+        <rect id="Rectangle_517" width="10.13" height="7.879" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-83">
+        <rect id="Rectangle_520" width="9.884" height="7.794" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-84">
+        <rect id="Rectangle_519" width="9.878" height="7.788" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-85">
+        <rect id="Rectangle_522" width="9.632" height="7.794" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-86">
+        <rect id="Rectangle_521" width="9.628" height="7.788" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-87">
+        <rect id="Rectangle_524" width="9.38" height="7.794" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-88">
+        <rect id="Rectangle_523" width="9.376" height="7.788" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-89">
+        <rect id="Rectangle_526" width="9.126" height="7.794" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-90">
+        <rect id="Rectangle_525" width="9.124" height="7.788" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-91">
+        <rect id="Rectangle_528" width="8.876" height="7.794" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-92">
+        <rect id="Rectangle_527" width="8.872" height="7.788" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-93">
+        <rect id="Rectangle_530" width="8.626" height="7.794" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-94">
+        <rect id="Rectangle_529" width="8.621" height="7.788" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-95">
+        <rect id="Rectangle_532" width="8.372" height="7.794" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-96">
+        <rect id="Rectangle_531" width="8.369" height="7.788" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-97">
+        <rect id="Rectangle_534" width="8.12" height="7.794" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-98">
+        <rect id="Rectangle_533" width="8.117" height="7.788" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-99">
+        <rect id="Rectangle_536" width="7.868" height="7.794" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-100">
+        <rect id="Rectangle_535" width="7.865" height="7.788" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-101">
+        <rect id="Rectangle_538" width="7.616" height="7.794" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-102">
+        <rect id="Rectangle_537" width="7.615" height="7.788" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-103">
+        <rect id="Rectangle_540" width="7.364" height="7.794" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-104">
+        <rect id="Rectangle_539" width="7.363" height="7.788" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-105">
+        <rect id="Rectangle_542" width="7.111" height="7.788" transform="translate(0 5.506)" fill="none"></rect>
+      </clipPath>
+    </defs>
+    <g id="Groupe_1330" clip-path="url(#clip-path)">
+      <g id="Groupe_1327">
+        <g id="Groupe_1326" clip-path="url(#clip-path-2)">
+          <g id="Groupe_1075" opacity="0">
+            <g id="Groupe_1074">
+              <g id="Groupe_1073" clip-path="url(#clip-path-3)">
+                <g id="Groupe_1072">
+                  <g id="Groupe_1071" clip-path="url(#clip-path-2)">
+                    <path id="Tracé_553" d="M17.024,17.99,0,13.286V5.5L19.95,11v3.472c0,2.24-1.414,3.934-2.926,3.514" fill="#fff"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_1080" opacity="0.02">
+            <g id="Groupe_1079">
+              <g id="Groupe_1078" clip-path="url(#clip-path-5)">
+                <g id="Groupe_1077">
+                  <g id="Groupe_1076" clip-path="url(#clip-path-6)">
+                    <path id="Tracé_554" d="M0,13.3V5.512l19.684,5.45.014,3.444c0,2.212-1.386,3.892-2.9,3.472Z" fill="#fafafa"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_1085" opacity="0.039">
+            <g id="Groupe_1084">
+              <g id="Groupe_1083" clip-path="url(#clip-path-7)">
+                <g id="Groupe_1082">
+                  <g id="Groupe_1081" clip-path="url(#clip-path-8)">
+                    <path id="Tracé_555" d="M0,13.3V5.512L19.432,10.9l.014,3.4c0,2.2-1.358,3.85-2.856,3.458Z" fill="#f5f5f5"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_1090" opacity="0.059">
+            <g id="Groupe_1089">
+              <g id="Groupe_1088" clip-path="url(#clip-path-9)">
+                <g id="Groupe_1087">
+                  <g id="Groupe_1086" clip-path="url(#clip-path-10)">
+                    <path id="Tracé_556" d="M0,13.3V5.512l19.18,5.32.014,3.388c0,2.17-1.33,3.808-2.828,3.43Z" fill="#f0f0f0"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_1095" opacity="0.078">
+            <g id="Groupe_1094">
+              <g id="Groupe_1093" clip-path="url(#clip-path-11)">
+                <g id="Groupe_1092">
+                  <g id="Groupe_1091" clip-path="url(#clip-path-12)">
+                    <path id="Tracé_557" d="M0,13.3V5.512L18.928,10.78l.014,3.36c0,2.142-1.3,3.766-2.786,3.388Z" fill="#ebebeb"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_1100" opacity="0.098">
+            <g id="Groupe_1099">
+              <g id="Groupe_1098" clip-path="url(#clip-path-13)">
+                <g id="Groupe_1097">
+                  <g id="Groupe_1096" clip-path="url(#clip-path-14)">
+                    <path id="Tracé_558" d="M0,13.3V5.512l18.676,5.212.014,3.332c0,2.114-1.274,3.71-2.758,3.36Z" fill="#e6e6e6"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_1105" opacity="0.118">
+            <g id="Groupe_1104">
+              <g id="Groupe_1103" clip-path="url(#clip-path-15)">
+                <g id="Groupe_1102">
+                  <g id="Groupe_1101" clip-path="url(#clip-path-16)">
+                    <path id="Tracé_559" d="M0,13.3V5.512l18.424,5.156.014,3.3c0,2.086-1.246,3.668-2.716,3.318Z" fill="#e1e1e1"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_1110" opacity="0.137">
+            <g id="Groupe_1109">
+              <g id="Groupe_1108" clip-path="url(#clip-path-17)">
+                <g id="Groupe_1107">
+                  <g id="Groupe_1106" clip-path="url(#clip-path-18)">
+                    <path id="Tracé_560" d="M0,13.3V5.512l18.158,5.1.028,3.262c0,2.072-1.218,3.64-2.688,3.3Z" fill="#dcdcdc"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_1115" opacity="0.157">
+            <g id="Groupe_1114">
+              <g id="Groupe_1113" clip-path="url(#clip-path-19)">
+                <g id="Groupe_1112">
+                  <g id="Groupe_1111" clip-path="url(#clip-path-20)">
+                    <path id="Tracé_561" d="M0,13.3V5.512l17.906,5.03.028,3.248c0,2.044-1.19,3.584-2.646,3.262Z" fill="#d7d7d7"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_1120" opacity="0.176">
+            <g id="Groupe_1119">
+              <g id="Groupe_1118" clip-path="url(#clip-path-21)">
+                <g id="Groupe_1117">
+                  <g id="Groupe_1116" clip-path="url(#clip-path-22)">
+                    <path id="Tracé_562" d="M0,13.3V5.512l17.654,4.97.028,3.22c0,2.03-1.162,3.542-2.6,3.234Z" fill="#d2d2d2"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_1125" opacity="0.196">
+            <g id="Groupe_1124">
+              <g id="Groupe_1123" clip-path="url(#clip-path-23)">
+                <g id="Groupe_1122">
+                  <g id="Groupe_1121" clip-path="url(#clip-path-24)">
+                    <path id="Tracé_563" d="M0,13.3V5.512L17.4,10.43l.028,3.192c0,1.988-1.134,3.5-2.576,3.192Z" fill="#cdcdcd"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_1130" opacity="0.216">
+            <g id="Groupe_1129">
+              <g id="Groupe_1128" clip-path="url(#clip-path-25)">
+                <g id="Groupe_1127">
+                  <g id="Groupe_1126" clip-path="url(#clip-path-26)">
+                    <path id="Tracé_564" d="M0,13.3V5.512l17.15,4.862.028,3.164c0,1.974-1.106,3.444-2.534,3.164Z" fill="#c8c8c8"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_1135" opacity="0.235">
+            <g id="Groupe_1134">
+              <g id="Groupe_1133" clip-path="url(#clip-path-27)">
+                <g id="Groupe_1132">
+                  <g id="Groupe_1131" clip-path="url(#clip-path-28)">
+                    <path id="Tracé_565" d="M0,13.3V5.512L16.884,10.3l.042,3.136c0,1.96-1.078,3.416-2.506,3.136Z" fill="#c3c3c3"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_1140" opacity="0.255">
+            <g id="Groupe_1139">
+              <g id="Groupe_1138" clip-path="url(#clip-path-29)">
+                <g id="Groupe_1137">
+                  <g id="Groupe_1136" clip-path="url(#clip-path-30)">
+                    <path id="Tracé_566" d="M0,13.3V5.512l16.632,4.736.042,3.108c0,1.932-1.05,3.374-2.464,3.108Z" fill="#bebebe"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_1145" opacity="0.275">
+            <g id="Groupe_1144">
+              <g id="Groupe_1143" clip-path="url(#clip-path-31)">
+                <g id="Groupe_1142">
+                  <g id="Groupe_1141" clip-path="url(#clip-path-32)">
+                    <path id="Tracé_567" d="M0,13.3V5.512l16.38,4.68.042,3.08c0,1.9-1.022,3.332-2.436,3.08Z" fill="#b9b9b9"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_1150" opacity="0.294">
+            <g id="Groupe_1149">
+              <g id="Groupe_1148" clip-path="url(#clip-path-33)">
+                <g id="Groupe_1147">
+                  <g id="Groupe_1146" clip-path="url(#clip-path-33)">
+                    <path id="Tracé_568" d="M0,13.3V5.512l16.128,4.62.042,3.052c0,1.876-.994,3.276-2.394,3.038Z" fill="#b4b4b4"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_1155" opacity="0.314">
+            <g id="Groupe_1154">
+              <g id="Groupe_1153" clip-path="url(#clip-path-35)">
+                <g id="Groupe_1152">
+                  <g id="Groupe_1151" clip-path="url(#clip-path-36)">
+                    <path id="Tracé_569" d="M0,13.3V5.512L15.876,10.08l.042,3.024c0,1.848-.966,3.234-2.366,3.01Z" fill="#afafaf"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_1160" opacity="0.333">
+            <g id="Groupe_1159">
+              <g id="Groupe_1158" clip-path="url(#clip-path-37)">
+                <g id="Groupe_1157">
+                  <g id="Groupe_1156" clip-path="url(#clip-path-38)">
+                    <path id="Tracé_570" d="M0,13.3V5.512l15.624,4.5.042,3.01c0,1.82-.938,3.192-2.324,2.968Z" fill="#aaa"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_1165" opacity="0.353">
+            <g id="Groupe_1164">
+              <g id="Groupe_1163" clip-path="url(#clip-path-39)">
+                <g id="Groupe_1162">
+                  <g id="Groupe_1161" clip-path="url(#clip-path-40)">
+                    <path id="Tracé_571" d="M0,13.3V5.512L15.358,9.954l.056,2.968c0,1.806-.91,3.15-2.3,2.954Z" fill="#a5a5a5"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_1170" opacity="0.373">
+            <g id="Groupe_1169">
+              <g id="Groupe_1168" clip-path="url(#clip-path-41)">
+                <g id="Groupe_1167">
+                  <g id="Groupe_1166" clip-path="url(#clip-path-42)">
+                    <path id="Tracé_572" d="M0,13.3V5.512L15.106,9.9l.056,2.94c0,1.778-.882,3.108-2.254,2.912Z" fill="#a0a0a0"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_1175" opacity="0.392">
+            <g id="Groupe_1174">
+              <g id="Groupe_1173" clip-path="url(#clip-path-43)">
+                <g id="Groupe_1172">
+                  <g id="Groupe_1171" clip-path="url(#clip-path-44)">
+                    <path id="Tracé_573" d="M0,13.3V5.512l14.854,4.33.056,2.912c0,1.75-.854,3.066-2.212,2.884Z" fill="#9b9b9b"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_1180" opacity="0.412">
+            <g id="Groupe_1179">
+              <g id="Groupe_1178" clip-path="url(#clip-path-45)">
+                <g id="Groupe_1177">
+                  <g id="Groupe_1176" clip-path="url(#clip-path-46)">
+                    <path id="Tracé_574" d="M0,13.3V5.512l14.6,4.27.056,2.884c0,1.722-.826,3.01-2.184,2.856Z" fill="#969696"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_1185" opacity="0.431">
+            <g id="Groupe_1184">
+              <g id="Groupe_1183" clip-path="url(#clip-path-47)">
+                <g id="Groupe_1182">
+                  <g id="Groupe_1181" clip-path="url(#clip-path-48)">
+                    <path id="Tracé_575" d="M0,13.3V5.512l14.35,4.2.056,2.87c0,1.694-.8,2.968-2.142,2.814Z" fill="#919191"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_1190" opacity="0.451">
+            <g id="Groupe_1189">
+              <g id="Groupe_1188" clip-path="url(#clip-path-49)">
+                <g id="Groupe_1187">
+                  <g id="Groupe_1186" clip-path="url(#clip-path-50)">
+                    <path id="Tracé_576" d="M0,13.3V5.512L14.1,9.66l.056,2.842c0,1.666-.77,2.926-2.114,2.786Z" fill="#8c8c8c"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_1195" opacity="0.471">
+            <g id="Groupe_1194">
+              <g id="Groupe_1193" clip-path="url(#clip-path-51)">
+                <g id="Groupe_1192">
+                  <g id="Groupe_1191" clip-path="url(#clip-path-52)">
+                    <path id="Tracé_577" d="M0,13.3V5.512L13.832,9.6l.07,2.8c0,1.652-.742,2.9-2.072,2.758Z" fill="#878787"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_1200" opacity="0.49">
+            <g id="Groupe_1199">
+              <g id="Groupe_1198" clip-path="url(#clip-path-53)">
+                <g id="Groupe_1197">
+                  <g id="Groupe_1196" clip-path="url(#clip-path-54)">
+                    <path id="Tracé_578" d="M0,13.3V5.512L13.58,9.548l.07,2.772c0,1.624-.714,2.842-2.044,2.73Z" fill="#828282"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_1205" opacity="0.51">
+            <g id="Groupe_1204">
+              <g id="Groupe_1203" clip-path="url(#clip-path-55)">
+                <g id="Groupe_1202">
+                  <g id="Groupe_1201" clip-path="url(#clip-path-56)">
+                    <path id="Tracé_579" d="M0,13.3V5.512L13.328,9.478l.07,2.758c0,1.6-.686,2.8-2,2.688Z" fill="#7d7d7d"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_1210" opacity="0.529">
+            <g id="Groupe_1209">
+              <g id="Groupe_1208" clip-path="url(#clip-path-57)">
+                <g id="Groupe_1207">
+                  <g id="Groupe_1206" clip-path="url(#clip-path-58)">
+                    <path id="Tracé_580" d="M0,13.3V5.512l13.076,3.91.07,2.73c0,1.568-.658,2.758-1.974,2.66Z" fill="#787878"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_1215" opacity="0.549">
+            <g id="Groupe_1214">
+              <g id="Groupe_1213" clip-path="url(#clip-path-59)">
+                <g id="Groupe_1212">
+                  <g id="Groupe_1211" clip-path="url(#clip-path-59)">
+                    <path id="Tracé_581" d="M0,13.3V5.512l12.824,3.85.07,2.7c0,1.554-.63,2.7-1.932,2.618Z" fill="#737373"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_1220" opacity="0.569">
+            <g id="Groupe_1219">
+              <g id="Groupe_1218" clip-path="url(#clip-path-61)">
+                <g id="Groupe_1217">
+                  <g id="Groupe_1216" clip-path="url(#clip-path-62)">
+                    <path id="Tracé_582" d="M0,13.3V5.512l12.572,3.8.07,2.674c0,1.512-.6,2.66-1.89,2.59Z" fill="#6e6e6e"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_1225" opacity="0.588">
+            <g id="Groupe_1224">
+              <g id="Groupe_1223" clip-path="url(#clip-path-63)">
+                <g id="Groupe_1222">
+                  <g id="Groupe_1221" clip-path="url(#clip-path-64)">
+                    <path id="Tracé_583" d="M0,13.3V5.512L12.306,9.254l.084,2.632c0,1.512-.574,2.632-1.862,2.576Z" fill="#696969"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_1230" opacity="0.608">
+            <g id="Groupe_1229">
+              <g id="Groupe_1228" clip-path="url(#clip-path-65)">
+                <g id="Groupe_1227">
+                  <g id="Groupe_1226" clip-path="url(#clip-path-66)">
+                    <path id="Tracé_584" d="M0,13.3V5.512L12.054,9.184l.084,2.618c0,1.484-.546,2.576-1.82,2.534Z" fill="#646464"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_1235" opacity="0.627">
+            <g id="Groupe_1234">
+              <g id="Groupe_1233" clip-path="url(#clip-path-67)">
+                <g id="Groupe_1232">
+                  <g id="Groupe_1231" clip-path="url(#clip-path-68)">
+                    <path id="Tracé_585" d="M0,13.3V5.512L11.8,9.128l.084,2.59c0,1.456-.518,2.534-1.792,2.506Z" fill="#5f5f5f"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_1240" opacity="0.647">
+            <g id="Groupe_1239">
+              <g id="Groupe_1238" clip-path="url(#clip-path-69)">
+                <g id="Groupe_1237">
+                  <g id="Groupe_1236" clip-path="url(#clip-path-70)">
+                    <path id="Tracé_586" d="M0,13.3V5.512l11.55,3.56.084,2.562c0,1.428-.49,2.492-1.75,2.464Z" fill="#5a5a5a"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_1245" opacity="0.667">
+            <g id="Groupe_1244">
+              <g id="Groupe_1243" clip-path="url(#clip-path-71)">
+                <g id="Groupe_1242">
+                  <g id="Groupe_1241" clip-path="url(#clip-path-72)">
+                    <path id="Tracé_587" d="M0,13.3V5.512l11.3,3.5.1,2.534c0,1.4-.476,2.436-1.736,2.436Z" fill="#555"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_1250" opacity="0.686">
+            <g id="Groupe_1249">
+              <g id="Groupe_1248" clip-path="url(#clip-path-73)">
+                <g id="Groupe_1247">
+                  <g id="Groupe_1246" clip-path="url(#clip-path-74)">
+                    <path id="Tracé_588" d="M0,13.3V5.512l11.032,3.43.112,2.506c0,1.386-.448,2.408-1.694,2.408Z" fill="#505050"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_1255" opacity="0.706">
+            <g id="Groupe_1254">
+              <g id="Groupe_1253" clip-path="url(#clip-path-75)">
+                <g id="Groupe_1252">
+                  <g id="Groupe_1251" clip-path="url(#clip-path-76)">
+                    <path id="Tracé_589" d="M0,13.3V5.512L10.78,8.89l.1,2.478c0,1.358-.406,2.366-1.652,2.38Z" fill="#4b4b4b"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_1260" opacity="0.725">
+            <g id="Groupe_1259">
+              <g id="Groupe_1258" clip-path="url(#clip-path-77)">
+                <g id="Groupe_1257">
+                  <g id="Groupe_1256" clip-path="url(#clip-path-78)">
+                    <path id="Tracé_590" d="M0,13.3V5.512L10.528,8.834l.112,2.45c0,1.33-.392,2.324-1.624,2.338Z" fill="#464646"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_1265" opacity="0.745">
+            <g id="Groupe_1264">
+              <g id="Groupe_1263" clip-path="url(#clip-path-79)">
+                <g id="Groupe_1262">
+                  <g id="Groupe_1261" clip-path="url(#clip-path-80)">
+                    <path id="Tracé_591" d="M0,13.3V5.512L10.276,8.778l.112,2.422c0,1.3-.364,2.268-1.6,2.31Z" fill="#414141"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_1270" opacity="0.765">
+            <g id="Groupe_1269">
+              <g id="Groupe_1268" clip-path="url(#clip-path-81)">
+                <g id="Groupe_1267">
+                  <g id="Groupe_1266" clip-path="url(#clip-path-82)">
+                    <path id="Tracé_592" d="M0,13.3V5.512l10.024,3.21.112,2.39c0,1.274-.336,2.226-1.554,2.282Z" fill="#3c3c3c"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_1275" opacity="0.784">
+            <g id="Groupe_1274">
+              <g id="Groupe_1273" clip-path="url(#clip-path-83)">
+                <g id="Groupe_1272">
+                  <g id="Groupe_1271" clip-path="url(#clip-path-84)">
+                    <path id="Tracé_593" d="M0,13.3V5.512l9.758,3.15.126,2.352c0,1.26-.308,2.2-1.512,2.254Z" fill="#373737"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_1280" opacity="0.804">
+            <g id="Groupe_1279">
+              <g id="Groupe_1278" clip-path="url(#clip-path-85)">
+                <g id="Groupe_1277">
+                  <g id="Groupe_1276" clip-path="url(#clip-path-86)">
+                    <path id="Tracé_594" d="M0,13.3V5.512l9.506,3.08.126,2.338c0,1.232-.28,2.142-1.484,2.226Z" fill="#323232"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_1285" opacity="0.824">
+            <g id="Groupe_1284">
+              <g id="Groupe_1283" clip-path="url(#clip-path-87)">
+                <g id="Groupe_1282">
+                  <g id="Groupe_1281" clip-path="url(#clip-path-88)">
+                    <path id="Tracé_595" d="M0,13.3V5.512L9.254,8.54l.126,2.31c0,1.2-.252,2.1-1.442,2.184Z" fill="#2d2d2d"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_1290" opacity="0.843">
+            <g id="Groupe_1289">
+              <g id="Groupe_1288" clip-path="url(#clip-path-89)">
+                <g id="Groupe_1287">
+                  <g id="Groupe_1286" clip-path="url(#clip-path-90)">
+                    <path id="Tracé_596" d="M0,13.3V5.512L9,8.484l.126,2.282c0,1.176-.224,2.058-1.414,2.156Z" fill="#282828"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_1295" opacity="0.863">
+            <g id="Groupe_1294">
+              <g id="Groupe_1293" clip-path="url(#clip-path-91)">
+                <g id="Groupe_1292">
+                  <g id="Groupe_1291" clip-path="url(#clip-path-92)">
+                    <path id="Tracé_597" d="M0,13.3V5.512L8.75,8.428l.126,2.254c0,1.148-.2,2-1.372,2.114Z" fill="#232323"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_1300" opacity="0.882">
+            <g id="Groupe_1299">
+              <g id="Groupe_1298" clip-path="url(#clip-path-93)">
+                <g id="Groupe_1297">
+                  <g id="Groupe_1296" clip-path="url(#clip-path-94)">
+                    <path id="Tracé_598" d="M0,13.3V5.512L8.5,8.358l.126,2.24c0,1.12-.168,1.96-1.344,2.086Z" fill="#1e1e1e"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_1305" opacity="0.902">
+            <g id="Groupe_1304">
+              <g id="Groupe_1303" clip-path="url(#clip-path-95)">
+                <g id="Groupe_1302">
+                  <g id="Groupe_1301" clip-path="url(#clip-path-96)">
+                    <path id="Tracé_599" d="M0,13.3V5.512L8.232,8.3l.14,2.2c0,1.106-.14,1.932-1.3,2.058Z" fill="#191919"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_1310" opacity="0.922">
+            <g id="Groupe_1309">
+              <g id="Groupe_1308" clip-path="url(#clip-path-97)">
+                <g id="Groupe_1307">
+                  <g id="Groupe_1306" clip-path="url(#clip-path-98)">
+                    <path id="Tracé_600" d="M0,13.3V5.512l7.98,2.73.14,2.17c0,1.078-.112,1.89-1.26,2.03Z" fill="#141414"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_1315" opacity="0.941">
+            <g id="Groupe_1314">
+              <g id="Groupe_1313" clip-path="url(#clip-path-99)">
+                <g id="Groupe_1312">
+                  <g id="Groupe_1311" clip-path="url(#clip-path-100)">
+                    <path id="Tracé_601" d="M0,13.3V5.512L7.728,8.19l.14,2.142c0,1.05-.084,1.834-1.232,1.988Z" fill="#0f0f0f"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_1320" opacity="0.961">
+            <g id="Groupe_1319">
+              <g id="Groupe_1318" clip-path="url(#clip-path-101)">
+                <g id="Groupe_1317">
+                  <g id="Groupe_1316" clip-path="url(#clip-path-102)">
+                    <path id="Tracé_602" d="M0,13.3V5.512L7.476,8.134l.14,2.114c0,1.022-.056,1.792-1.19,1.96Z" fill="#0a0a0a"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_1325" opacity="0.98">
+            <g id="Groupe_1324">
+              <g id="Groupe_1323" clip-path="url(#clip-path-103)">
+                <g id="Groupe_1322">
+                  <g id="Groupe_1321" clip-path="url(#clip-path-104)">
+                    <path id="Tracé_603" d="M0,13.3V5.512L7.224,8.064l.14,2.1c0,1.008-.028,1.75-1.162,1.932Z" fill="#050505"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Groupe_1329">
+        <g id="Groupe_1328" clip-path="url(#clip-path-105)">
+          <path id="Tracé_604" d="M0,13.3V5.512l6.972,2.5.14,2.072c0,.98,0,1.694-1.12,1.89Z"></path>
+        </g>
+      </g>
+      <rect id="Rectangle_543" width="19.95" height="4.438" transform="translate(0 0)" fill="#ec2938"></rect>
+      <rect id="Rectangle_544" width="19.95" height="4.439" transform="translate(0 4.437)" fill="#fff"></rect>
+      <rect id="Rectangle_545" width="19.95" height="4.423" transform="translate(0 8.877)" fill="#062493"></rect>
+    </g>
+  </symbol>
+
+  <!--FR-->
+  <symbol id="fr" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 20.033 18.121">
+    <defs>
+      <clipPath id="clip-path">
+        <rect id="Rectangle_333" width="20.033" height="18.121" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-2">
+        <rect id="Rectangle_328" width="20.028" height="12.606" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-3">
+        <rect id="Rectangle_227" width="20.033" height="12.613" transform="translate(0 5.508)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-5">
+        <rect id="Rectangle_229" width="19.78" height="12.488" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-6">
+        <rect id="Rectangle_228" width="19.774" height="12.485" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-7">
+        <rect id="Rectangle_231" width="19.527" height="12.368" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-8">
+        <rect id="Rectangle_230" width="19.521" height="12.363" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-9">
+        <rect id="Rectangle_233" width="19.274" height="12.251" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-10">
+        <rect id="Rectangle_232" width="19.27" height="12.242" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-11">
+        <rect id="Rectangle_235" width="19.021" height="12.126" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-12">
+        <rect id="Rectangle_234" width="19.017" height="12.12" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-13">
+        <rect id="Rectangle_237" width="18.768" height="12.004" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-14">
+        <rect id="Rectangle_236" width="18.764" height="11.999" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-15">
+        <rect id="Rectangle_239" width="18.514" height="11.882" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-16">
+        <rect id="Rectangle_238" width="18.511" height="11.877" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-17">
+        <rect id="Rectangle_241" width="18.262" height="11.767" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-18">
+        <rect id="Rectangle_240" width="18.259" height="11.757" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-19">
+        <rect id="Rectangle_243" width="18.009" height="11.638" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-20">
+        <rect id="Rectangle_242" width="18.006" height="11.635" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-21">
+        <rect id="Rectangle_245" width="17.756" height="11.521" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-22">
+        <rect id="Rectangle_244" width="17.753" height="11.514" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-23">
+        <rect id="Rectangle_247" width="17.503" height="11.394" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-24">
+        <rect id="Rectangle_246" width="17.5" height="11.393" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-25">
+        <rect id="Rectangle_249" width="17.249" height="11.279" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-26">
+        <rect id="Rectangle_248" width="17.248" height="11.272" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-27">
+        <rect id="Rectangle_251" width="17" height="11.151" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-28">
+        <rect id="Rectangle_250" width="16.995" height="11.151" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-29">
+        <rect id="Rectangle_253" width="16.742" height="11.036" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-30">
+        <rect id="Rectangle_252" width="16.742" height="11.029" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-31">
+        <rect id="Rectangle_255" width="16.49" height="10.921" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-32">
+        <rect id="Rectangle_254" width="16.49" height="10.909" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-33">
+        <rect id="Rectangle_257" width="16.242" height="10.792" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-34">
+        <rect id="Rectangle_256" width="16.237" height="10.787" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-35">
+        <rect id="Rectangle_259" width="15.984" height="10.677" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-36">
+        <rect id="Rectangle_258" width="15.984" height="10.667" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-37">
+        <rect id="Rectangle_261" width="15.731" height="10.549" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-38">
+        <rect id="Rectangle_260" width="15.731" height="10.545" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-39">
+        <rect id="Rectangle_263" width="15.48" height="10.431" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-40">
+        <rect id="Rectangle_262" width="15.48" height="10.425" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-41">
+        <rect id="Rectangle_265" width="15.227" height="10.305" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-43">
+        <rect id="Rectangle_267" width="14.974" height="10.194" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-44">
+        <rect id="Rectangle_266" width="14.974" height="10.184" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-45">
+        <rect id="Rectangle_269" width="14.72" height="10.079" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-46">
+        <rect id="Rectangle_268" width="14.72" height="10.063" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-47">
+        <rect id="Rectangle_271" width="14.469" height="9.945" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-48">
+        <rect id="Rectangle_270" width="14.469" height="9.942" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-49">
+        <rect id="Rectangle_273" width="14.216" height="9.835" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-50">
+        <rect id="Rectangle_272" width="14.216" height="9.823" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-51">
+        <rect id="Rectangle_275" width="13.963" height="9.707" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-52">
+        <rect id="Rectangle_274" width="13.963" height="9.702" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-53">
+        <rect id="Rectangle_277" width="13.71" height="9.591" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-54">
+        <rect id="Rectangle_276" width="13.71" height="9.582" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-55">
+        <rect id="Rectangle_279" width="13.458" height="9.465" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-56">
+        <rect id="Rectangle_278" width="13.458" height="9.461" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-57">
+        <rect id="Rectangle_281" width="13.205" height="9.35" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-58">
+        <rect id="Rectangle_280" width="13.205" height="9.342" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-59">
+        <rect id="Rectangle_283" width="12.952" height="9.222" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-61">
+        <rect id="Rectangle_285" width="12.699" height="9.109" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-62">
+        <rect id="Rectangle_284" width="12.699" height="9.102" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-63">
+        <rect id="Rectangle_287" width="12.447" height="8.995" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-64">
+        <rect id="Rectangle_286" width="12.447" height="8.983" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-65">
+        <rect id="Rectangle_289" width="12.194" height="8.868" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-66">
+        <rect id="Rectangle_288" width="12.194" height="8.863" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-67">
+        <rect id="Rectangle_291" width="11.941" height="8.754" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-68">
+        <rect id="Rectangle_290" width="11.941" height="8.744" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-69">
+        <rect id="Rectangle_293" width="11.688" height="8.628" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-70">
+        <rect id="Rectangle_292" width="11.688" height="8.624" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-71">
+        <rect id="Rectangle_295" width="11.445" height="8.516" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-72">
+        <rect id="Rectangle_294" width="11.437" height="8.505" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-73">
+        <rect id="Rectangle_297" width="11.19" height="8.388" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-74">
+        <rect id="Rectangle_296" width="11.183" height="8.386" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-75">
+        <rect id="Rectangle_299" width="10.93" height="8.276" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-76">
+        <rect id="Rectangle_298" width="10.93" height="8.268" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-77">
+        <rect id="Rectangle_301" width="10.684" height="8.15" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-78">
+        <rect id="Rectangle_300" width="10.677" height="8.15" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-79">
+        <rect id="Rectangle_303" width="10.431" height="8.038" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-80">
+        <rect id="Rectangle_302" width="10.426" height="8.03" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-81">
+        <rect id="Rectangle_305" width="10.178" height="7.921" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-82">
+        <rect id="Rectangle_304" width="10.173" height="7.912" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-83">
+        <rect id="Rectangle_307" width="9.927" height="7.826" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-84">
+        <rect id="Rectangle_306" width="9.92" height="7.821" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-85">
+        <rect id="Rectangle_309" width="9.673" height="7.826" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-86">
+        <rect id="Rectangle_308" width="9.667" height="7.821" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-87">
+        <rect id="Rectangle_311" width="9.42" height="7.826" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-88">
+        <rect id="Rectangle_310" width="9.415" height="7.821" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-89">
+        <rect id="Rectangle_313" width="9.167" height="7.826" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-90">
+        <rect id="Rectangle_312" width="9.162" height="7.821" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-91">
+        <rect id="Rectangle_315" width="8.913" height="7.826" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-92">
+        <rect id="Rectangle_314" width="8.909" height="7.821" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-93">
+        <rect id="Rectangle_317" width="8.66" height="7.826" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-94">
+        <rect id="Rectangle_316" width="8.657" height="7.821" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-95">
+        <rect id="Rectangle_319" width="8.407" height="7.826" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-96">
+        <rect id="Rectangle_318" width="8.404" height="7.821" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-97">
+        <rect id="Rectangle_321" width="8.154" height="7.826" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-98">
+        <rect id="Rectangle_320" width="8.151" height="7.821" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-99">
+        <rect id="Rectangle_323" width="7.9" height="7.826" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-100">
+        <rect id="Rectangle_322" width="7.898" height="7.821" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-101">
+        <rect id="Rectangle_325" width="7.648" height="7.826" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-102">
+        <rect id="Rectangle_324" width="7.646" height="7.821" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-103">
+        <rect id="Rectangle_327" width="7.395" height="7.826" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-104">
+        <rect id="Rectangle_326" width="7.393" height="7.821" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+      <clipPath id="clip-path-105">
+        <rect id="Rectangle_329" width="7.14" height="7.821" transform="translate(0 5.515)" fill="none"></rect>
+      </clipPath>
+    </defs>
+    <g id="Groupe_808" clip-path="url(#clip-path)">
+      <g id="Groupe_805">
+        <g id="Groupe_804" clip-path="url(#clip-path-2)">
+          <g id="Groupe_553" opacity="0">
+            <g id="Groupe_552">
+              <g id="Groupe_551" clip-path="url(#clip-path-3)">
+                <g id="Groupe_550">
+                  <g id="Groupe_549" clip-path="url(#clip-path-2)">
+                    <path id="Tracé_435" d="M17.095,18.051,0,13.327V5.508l20.033,5.528v3.486c0,2.249-1.406,3.95-2.938,3.529" fill="#fff"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_558" opacity="0.02">
+            <g id="Groupe_557">
+              <g id="Groupe_556" clip-path="url(#clip-path-5)">
+                <g id="Groupe_555">
+                  <g id="Groupe_554" clip-path="url(#clip-path-6)">
+                    <path id="Tracé_436" d="M0,13.341V5.521l19.766,5.473.014,3.458c0,2.221-1.392,3.908-2.91,3.486Z" fill="#fafafa"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_563" opacity="0.039">
+            <g id="Groupe_562">
+              <g id="Groupe_561" clip-path="url(#clip-path-7)">
+                <g id="Groupe_560">
+                  <g id="Groupe_559" clip-path="url(#clip-path-8)">
+                    <path id="Tracé_437" d="M0,13.341V5.521l19.513,5.416.014,3.416c0,2.207-1.364,3.866-2.868,3.472Z" fill="#f5f5f5"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_568" opacity="0.059">
+            <g id="Groupe_567">
+              <g id="Groupe_566" clip-path="url(#clip-path-9)">
+                <g id="Groupe_565">
+                  <g id="Groupe_564" clip-path="url(#clip-path-10)">
+                    <path id="Tracé_438" d="M0,13.341V5.521l19.26,5.346.014,3.4c0,2.179-1.336,3.824-2.84,3.444Z" fill="#f0f0f0"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_573" opacity="0.078">
+            <g id="Groupe_572">
+              <g id="Groupe_571" clip-path="url(#clip-path-11)">
+                <g id="Groupe_570">
+                  <g id="Groupe_569" clip-path="url(#clip-path-12)">
+                    <path id="Tracé_439" d="M0,13.341V5.521l19.007,5.29.014,3.374c0,2.151-1.307,3.782-2.8,3.4Z" fill="#ebebeb"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_578" opacity="0.098">
+            <g id="Groupe_577">
+              <g id="Groupe_576" clip-path="url(#clip-path-13)">
+                <g id="Groupe_575">
+                  <g id="Groupe_574" clip-path="url(#clip-path-14)">
+                    <path id="Tracé_440" d="M0,13.341V5.521l18.754,5.23.014,3.346c0,2.123-1.279,3.725-2.769,3.374Z" fill="#e6e6e6"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_583" opacity="0.118">
+            <g id="Groupe_582">
+              <g id="Groupe_581" clip-path="url(#clip-path-15)">
+                <g id="Groupe_580">
+                  <g id="Groupe_579" clip-path="url(#clip-path-16)">
+                    <path id="Tracé_441" d="M0,13.341V5.521L18.5,10.7l.014,3.318c0,2.1-1.251,3.683-2.727,3.332Z" fill="#e1e1e1"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_588" opacity="0.137">
+            <g id="Groupe_587">
+              <g id="Groupe_586" clip-path="url(#clip-path-17)">
+                <g id="Groupe_585">
+                  <g id="Groupe_584" clip-path="url(#clip-path-18)">
+                    <path id="Tracé_442" d="M0,13.341V5.521l18.234,5.121.028,3.276c0,2.081-1.223,3.655-2.7,3.318Z" fill="#dcdcdc"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_593" opacity="0.157">
+            <g id="Groupe_592">
+              <g id="Groupe_591" clip-path="url(#clip-path-19)">
+                <g id="Groupe_590">
+                  <g id="Groupe_589" clip-path="url(#clip-path-20)">
+                    <path id="Tracé_443" d="M0,13.341V5.521l17.981,5.051.028,3.262c0,2.053-1.2,3.6-2.657,3.276Z" fill="#d7d7d7"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_598" opacity="0.176">
+            <g id="Groupe_597">
+              <g id="Groupe_596" clip-path="url(#clip-path-21)">
+                <g id="Groupe_595">
+                  <g id="Groupe_594" clip-path="url(#clip-path-22)">
+                    <path id="Tracé_444" d="M0,13.341V5.521l17.728,4.995.028,3.233c0,2.038-1.167,3.557-2.615,3.247Z" fill="#d2d2d2"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_603" opacity="0.196">
+            <g id="Groupe_602">
+              <g id="Groupe_601" clip-path="url(#clip-path-23)">
+                <g id="Groupe_600">
+                  <g id="Groupe_599" clip-path="url(#clip-path-24)">
+                    <path id="Tracé_445" d="M0,13.341V5.521l17.475,4.938.028,3.2c0,2-1.139,3.515-2.587,3.2Z" fill="#cdcdcd"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_608" opacity="0.216">
+            <g id="Groupe_607">
+              <g id="Groupe_606" clip-path="url(#clip-path-25)">
+                <g id="Groupe_605">
+                  <g id="Groupe_604" clip-path="url(#clip-path-26)">
+                    <path id="Tracé_446" d="M0,13.341V5.521L17.221,10.4l.028,3.177c0,1.982-1.111,3.472-2.545,3.177Z" fill="#c8c8c8"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_613" opacity="0.235">
+            <g id="Groupe_612">
+              <g id="Groupe_611" clip-path="url(#clip-path-27)">
+                <g id="Groupe_610">
+                  <g id="Groupe_609" clip-path="url(#clip-path-28)">
+                    <path id="Tracé_447" d="M0,13.341V5.521l16.954,4.812L17,13.482c0,1.968-1.082,3.43-2.516,3.149Z" fill="#c3c3c3"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_618" opacity="0.255">
+            <g id="Groupe_617">
+              <g id="Groupe_616" clip-path="url(#clip-path-29)">
+                <g id="Groupe_615">
+                  <g id="Groupe_614" clip-path="url(#clip-path-30)">
+                    <path id="Tracé_448" d="M0,13.341V5.521l16.7,4.756.042,3.121c0,1.94-1.054,3.388-2.474,3.121Z" fill="#bebebe"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_623" opacity="0.275">
+            <g id="Groupe_622">
+              <g id="Groupe_621" clip-path="url(#clip-path-31)">
+                <g id="Groupe_620">
+                  <g id="Groupe_619" clip-path="url(#clip-path-32)">
+                    <path id="Tracé_449" d="M0,13.341V5.521l16.448,4.7.042,3.093c0,1.912-1.026,3.346-2.446,3.093Z" fill="#b9b9b9"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_628" opacity="0.294">
+            <g id="Groupe_627">
+              <g id="Groupe_626" clip-path="url(#clip-path-33)">
+                <g id="Groupe_625">
+                  <g id="Groupe_624" clip-path="url(#clip-path-34)">
+                    <path id="Tracé_450" d="M0,13.341V5.521l16.2,4.643.042,3.065c0,1.884-1,3.29-2.4,3.051Z" fill="#b4b4b4"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_633" opacity="0.314">
+            <g id="Groupe_632">
+              <g id="Groupe_631" clip-path="url(#clip-path-35)">
+                <g id="Groupe_630">
+                  <g id="Groupe_629" clip-path="url(#clip-path-36)">
+                    <path id="Tracé_451" d="M0,13.341V5.521l15.942,4.587.042,3.037c0,1.856-.97,3.247-2.376,3.023Z" fill="#afafaf"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_638" opacity="0.333">
+            <g id="Groupe_637">
+              <g id="Groupe_636" clip-path="url(#clip-path-37)">
+                <g id="Groupe_635">
+                  <g id="Groupe_634" clip-path="url(#clip-path-38)">
+                    <path id="Tracé_452" d="M0,13.341V5.521l15.689,4.531.042,3.008c0,1.828-.942,3.2-2.334,2.98Z" fill="#aaa"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_643" opacity="0.353">
+            <g id="Groupe_642">
+              <g id="Groupe_641" clip-path="url(#clip-path-39)">
+                <g id="Groupe_640">
+                  <g id="Groupe_639" clip-path="url(#clip-path-40)">
+                    <path id="Tracé_453" d="M0,13.341V5.521l15.422,4.46.056,2.98c0,1.814-.914,3.163-2.306,2.966Z" fill="#a5a5a5"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_648" opacity="0.373">
+            <g id="Groupe_647">
+              <g id="Groupe_646" clip-path="url(#clip-path-41)">
+                <g id="Groupe_645">
+                  <g id="Groupe_644" clip-path="url(#clip-path-41)">
+                    <path id="Tracé_454" d="M0,13.341V5.521l15.169,4.4.056,2.952c0,1.785-.886,3.121-2.263,2.924Z" fill="#a0a0a0"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_653" opacity="0.392">
+            <g id="Groupe_652">
+              <g id="Groupe_651" clip-path="url(#clip-path-43)">
+                <g id="Groupe_650">
+                  <g id="Groupe_649" clip-path="url(#clip-path-44)">
+                    <path id="Tracé_455" d="M0,13.341V5.521L14.916,9.869l.056,2.924c0,1.757-.858,3.079-2.221,2.9Z" fill="#9b9b9b"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_658" opacity="0.412">
+            <g id="Groupe_657">
+              <g id="Groupe_656" clip-path="url(#clip-path-45)">
+                <g id="Groupe_655">
+                  <g id="Groupe_654" clip-path="url(#clip-path-46)">
+                    <path id="Tracé_456" d="M0,13.341V5.521L14.663,9.813l.056,2.9c0,1.729-.829,3.023-2.193,2.868Z" fill="#969696"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_663" opacity="0.431">
+            <g id="Groupe_662">
+              <g id="Groupe_661" clip-path="url(#clip-path-47)">
+                <g id="Groupe_660">
+                  <g id="Groupe_659" clip-path="url(#clip-path-48)">
+                    <path id="Tracé_457" d="M0,13.341V5.521L14.41,9.743l.056,2.878c0,1.7-.8,2.98-2.151,2.826Z" fill="#919191"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_668" opacity="0.451">
+            <g id="Groupe_667">
+              <g id="Groupe_666" clip-path="url(#clip-path-49)">
+                <g id="Groupe_665">
+                  <g id="Groupe_664" clip-path="url(#clip-path-50)">
+                    <path id="Tracé_458" d="M0,13.341V5.521L14.157,9.686l.056,2.854c0,1.673-.773,2.938-2.123,2.8Z" fill="#8c8c8c"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_673" opacity="0.471">
+            <g id="Groupe_672">
+              <g id="Groupe_671" clip-path="url(#clip-path-51)">
+                <g id="Groupe_670">
+                  <g id="Groupe_669" clip-path="url(#clip-path-52)">
+                    <path id="Tracé_459" d="M0,13.341V5.521L13.89,9.63l.07,2.812c0,1.659-.745,2.91-2.081,2.769Z" fill="#878787"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_678" opacity="0.49">
+            <g id="Groupe_677">
+              <g id="Groupe_676" clip-path="url(#clip-path-53)">
+                <g id="Groupe_675">
+                  <g id="Groupe_674" clip-path="url(#clip-path-54)">
+                    <path id="Tracé_460" d="M0,13.341V5.521L13.637,9.574l.07,2.784c0,1.631-.717,2.854-2.053,2.741Z" fill="#828282"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_683" opacity="0.51">
+            <g id="Groupe_682">
+              <g id="Groupe_681" clip-path="url(#clip-path-55)">
+                <g id="Groupe_680">
+                  <g id="Groupe_679" clip-path="url(#clip-path-56)">
+                    <path id="Tracé_461" d="M0,13.341V5.521L13.384,9.5l.07,2.769c0,1.6-.689,2.812-2.01,2.7Z" fill="#7d7d7d"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_688" opacity="0.529">
+            <g id="Groupe_687">
+              <g id="Groupe_686" clip-path="url(#clip-path-57)">
+                <g id="Groupe_685">
+                  <g id="Groupe_684" clip-path="url(#clip-path-58)">
+                    <path id="Tracé_462" d="M0,13.341V5.521L13.13,9.447l.07,2.741c0,1.575-.661,2.769-1.982,2.671Z" fill="#787878"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_693" opacity="0.549">
+            <g id="Groupe_692">
+              <g id="Groupe_691" clip-path="url(#clip-path-59)">
+                <g id="Groupe_690">
+                  <g id="Groupe_689" clip-path="url(#clip-path-59)">
+                    <path id="Tracé_463" d="M0,13.341V5.521l12.877,3.87.07,2.713c0,1.56-.633,2.713-1.94,2.629Z" fill="#737373"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_698" opacity="0.569">
+            <g id="Groupe_697">
+              <g id="Groupe_696" clip-path="url(#clip-path-61)">
+                <g id="Groupe_695">
+                  <g id="Groupe_694" clip-path="url(#clip-path-62)">
+                    <path id="Tracé_464" d="M0,13.341V5.521l12.61,3.81.085,2.69c0,1.518-.6,2.671-1.9,2.6Z" fill="#6e6e6e"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_703" opacity="0.588">
+            <g id="Groupe_702">
+              <g id="Groupe_701" clip-path="url(#clip-path-63)">
+                <g id="Groupe_700">
+                  <g id="Groupe_699" clip-path="url(#clip-path-64)">
+                    <path id="Tracé_465" d="M0,13.341V5.521L12.357,9.279l.085,2.642c0,1.518-.576,2.643-1.87,2.587Z" fill="#696969"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_708" opacity="0.608">
+            <g id="Groupe_707">
+              <g id="Groupe_706" clip-path="url(#clip-path-65)">
+                <g id="Groupe_705">
+                  <g id="Groupe_704" clip-path="url(#clip-path-66)">
+                    <path id="Tracé_466" d="M0,13.341V5.521L12.1,9.208l.084,2.629c0,1.49-.548,2.587-1.828,2.545Z" fill="#646464"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_713" opacity="0.627">
+            <g id="Groupe_712">
+              <g id="Groupe_711" clip-path="url(#clip-path-67)">
+                <g id="Groupe_710">
+                  <g id="Groupe_709" clip-path="url(#clip-path-68)">
+                    <path id="Tracé_467" d="M0,13.341V5.521L11.851,9.152l.084,2.6c0,1.462-.52,2.545-1.8,2.516Z" fill="#5f5f5f"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_718" opacity="0.647">
+            <g id="Groupe_717">
+              <g id="Groupe_716" clip-path="url(#clip-path-69)">
+                <g id="Groupe_715">
+                  <g id="Groupe_714" clip-path="url(#clip-path-70)">
+                    <path id="Tracé_468" d="M0,13.341V5.521L11.6,9.1l.084,2.573c0,1.434-.492,2.5-1.757,2.474Z" fill="#5a5a5a"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_723" opacity="0.667">
+            <g id="Groupe_722">
+              <g id="Groupe_721" clip-path="url(#clip-path-71)">
+                <g id="Groupe_720">
+                  <g id="Groupe_719" clip-path="url(#clip-path-72)">
+                    <path id="Tracé_469" d="M0,13.341V5.521L11.345,9.04l.1,2.545c0,1.406-.478,2.446-1.743,2.446Z" fill="#555"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_728" opacity="0.686">
+            <g id="Groupe_727">
+              <g id="Groupe_726" clip-path="url(#clip-path-73)">
+                <g id="Groupe_725">
+                  <g id="Groupe_724" clip-path="url(#clip-path-74)">
+                    <path id="Tracé_470" d="M0,13.341V5.521L11.078,8.969l.112,2.516c0,1.392-.45,2.418-1.7,2.418Z" fill="#505050"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_733" opacity="0.706">
+            <g id="Groupe_732">
+              <g id="Groupe_731" clip-path="url(#clip-path-75)">
+                <g id="Groupe_730">
+                  <g id="Groupe_729" clip-path="url(#clip-path-76)">
+                    <path id="Tracé_471" d="M0,13.341V5.521L10.825,8.913l.1,2.488c0,1.364-.408,2.376-1.659,2.39Z" fill="#4b4b4b"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_738" opacity="0.725">
+            <g id="Groupe_737">
+              <g id="Groupe_736" clip-path="url(#clip-path-77)">
+                <g id="Groupe_735">
+                  <g id="Groupe_734" clip-path="url(#clip-path-78)">
+                    <path id="Tracé_472" d="M0,13.341V5.521L10.572,8.857l.112,2.46c0,1.336-.394,2.334-1.631,2.348Z" fill="#464646"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_743" opacity="0.745">
+            <g id="Groupe_742">
+              <g id="Groupe_741" clip-path="url(#clip-path-79)">
+                <g id="Groupe_740">
+                  <g id="Groupe_739" clip-path="url(#clip-path-80)">
+                    <path id="Tracé_473" d="M0,13.341V5.521L10.319,8.8l.112,2.432c0,1.307-.366,2.277-1.6,2.32Z" fill="#414141"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_748" opacity="0.765">
+            <g id="Groupe_747">
+              <g id="Groupe_746" clip-path="url(#clip-path-81)">
+                <g id="Groupe_745">
+                  <g id="Groupe_744" clip-path="url(#clip-path-82)">
+                    <path id="Tracé_474" d="M0,13.341V5.521L10.066,8.744l.112,2.4c0,1.279-.337,2.235-1.56,2.292Z" fill="#3c3c3c"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_753" opacity="0.784">
+            <g id="Groupe_752">
+              <g id="Groupe_751" clip-path="url(#clip-path-83)">
+                <g id="Groupe_750">
+                  <g id="Groupe_749" clip-path="url(#clip-path-84)">
+                    <path id="Tracé_475" d="M0,13.341V5.521L9.8,8.688l.127,2.362c0,1.265-.309,2.207-1.518,2.263Z" fill="#373737"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_758" opacity="0.804">
+            <g id="Groupe_757">
+              <g id="Groupe_756" clip-path="url(#clip-path-85)">
+                <g id="Groupe_755">
+                  <g id="Groupe_754" clip-path="url(#clip-path-86)">
+                    <path id="Tracé_476" d="M0,13.341V5.521l9.546,3.1.127,2.348c0,1.237-.281,2.151-1.49,2.235Z" fill="#323232"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_763" opacity="0.824">
+            <g id="Groupe_762">
+              <g id="Groupe_761" clip-path="url(#clip-path-87)">
+                <g id="Groupe_760">
+                  <g id="Groupe_759" clip-path="url(#clip-path-88)">
+                    <path id="Tracé_477" d="M0,13.341V5.521L9.293,8.562l.127,2.32c0,1.209-.253,2.109-1.448,2.193Z" fill="#2d2d2d"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_768" opacity="0.843">
+            <g id="Groupe_767">
+              <g id="Groupe_766" clip-path="url(#clip-path-89)">
+                <g id="Groupe_765">
+                  <g id="Groupe_764" clip-path="url(#clip-path-90)">
+                    <path id="Tracé_478" d="M0,13.341V5.521L9.04,8.5l.127,2.292c0,1.181-.225,2.067-1.42,2.165Z" fill="#282828"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_773" opacity="0.863">
+            <g id="Groupe_772">
+              <g id="Groupe_771" clip-path="url(#clip-path-91)">
+                <g id="Groupe_770">
+                  <g id="Groupe_769" clip-path="url(#clip-path-92)">
+                    <path id="Tracé_479" d="M0,13.341V5.521L8.786,8.449l.127,2.263c0,1.153-.2,2.01-1.378,2.123Z" fill="#232323"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_778" opacity="0.882">
+            <g id="Groupe_777">
+              <g id="Groupe_776" clip-path="url(#clip-path-93)">
+                <g id="Groupe_775">
+                  <g id="Groupe_774" clip-path="url(#clip-path-94)">
+                    <path id="Tracé_480" d="M0,13.341V5.521L8.533,8.379l.127,2.249c0,1.125-.169,1.968-1.35,2.095Z" fill="#1e1e1e"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_783" opacity="0.902">
+            <g id="Groupe_782">
+              <g id="Groupe_781" clip-path="url(#clip-path-95)">
+                <g id="Groupe_780">
+                  <g id="Groupe_779" clip-path="url(#clip-path-96)">
+                    <path id="Tracé_481" d="M0,13.341V5.521l8.266,2.8.141,2.207c0,1.111-.141,1.94-1.307,2.067Z" fill="#191919"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_788" opacity="0.922">
+            <g id="Groupe_787">
+              <g id="Groupe_786" clip-path="url(#clip-path-97)">
+                <g id="Groupe_785">
+                  <g id="Groupe_784" clip-path="url(#clip-path-98)">
+                    <path id="Tracé_482" d="M0,13.341V5.521L8.013,8.266l.141,2.179c0,1.082-.112,1.9-1.279,2.038Z" fill="#141414"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_793" opacity="0.941">
+            <g id="Groupe_792">
+              <g id="Groupe_791" clip-path="url(#clip-path-99)">
+                <g id="Groupe_790">
+                  <g id="Groupe_789" clip-path="url(#clip-path-100)">
+                    <path id="Tracé_483" d="M0,13.341V5.521L7.76,8.21l.14,2.151c0,1.054-.084,1.842-1.237,2Z" fill="#0f0f0f"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_798" opacity="0.961">
+            <g id="Groupe_797">
+              <g id="Groupe_796" clip-path="url(#clip-path-101)">
+                <g id="Groupe_795">
+                  <g id="Groupe_794" clip-path="url(#clip-path-102)">
+                    <path id="Tracé_484" d="M0,13.341V5.521L7.507,8.154l.141,2.123c0,1.026-.056,1.8-1.209,1.968Z" fill="#0a0a0a"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Groupe_803" opacity="0.98">
+            <g id="Groupe_802">
+              <g id="Groupe_801" clip-path="url(#clip-path-103)">
+                <g id="Groupe_800">
+                  <g id="Groupe_799" clip-path="url(#clip-path-104)">
+                    <path id="Tracé_485" d="M0,13.341V5.521L7.254,8.084l.141,2.109c0,1.012-.028,1.757-1.167,1.94Z" fill="#050505"></path>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Groupe_807">
+        <g id="Groupe_806" clip-path="url(#clip-path-105)">
+          <path id="Tracé_486" d="M0,13.341V5.521l6.987,2.5L7.142,10.1c0,.984,0,1.7-1.125,1.9Z"></path>
+        </g>
+      </g>
+      <rect id="Rectangle_330" width="6.678" height="13.341" transform="translate(13.341 0)" fill="#ec2938"></rect>
+      <rect id="Rectangle_331" width="6.678" height="13.341" transform="translate(0 0)" fill="#062493"></rect>
+      <rect id="Rectangle_332" width="6.664" height="13.341" transform="translate(6.678 0)" fill="#fff"></rect>
+    </g>
+  </symbol>
+  <!--END - LANGS-->
+
+
+</svg>
