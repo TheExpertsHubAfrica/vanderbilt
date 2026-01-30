@@ -7,29 +7,34 @@ html {
     -ms-text-size-adjust: 100%;
     -webkit-tap-highlight-color: transparent;
 }
+
 body,
 html {
     height: 100%;
     min-height: 100%;
 }
+
 body {
     margin: 0;
     font-size: 1.3rem;
     background: #fff;
     color: #000;
 }
+
 a {
     cursor: pointer;
     text-decoration: none;
     color: #2498e3;
     background-color: transparent;
 }
+
 a:active,
 a:hover {
     text-decoration: underline;
     color: #188dd9;
     outline: 0;
 }
+
 h1,
 h2 {
     margin: 0 0 0.5rem;
@@ -37,18 +42,30 @@ h2 {
     font-weight: 400;
     line-height: 1;
 }
-h1 { font-size: 2.4rem; }
-h2 { font-size: 3.6rem; }
+
+h1 {
+    font-size: 2.4rem;
+}
+
+h2 {
+    font-size: 3.6rem;
+}
+
 .error-code {
     color: #f47755;
     font-size: 8rem;
     line-height: 1;
 }
-p { margin: 1.2rem 0; }
+
+p {
+    margin: 1.2rem 0;
+}
+
 p.lead {
     font-size: 1.6rem;
     color: #4f5a64;
 }
+
 hr {
     box-sizing: content-box;
     height: 0;
@@ -56,12 +73,14 @@ hr {
     border: 0;
     border-top: 1px solid #ddd;
 }
+
 .page {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
     min-height: 100vh;
 }
+
 .page:before {
     display: block;
     content: '';
@@ -71,6 +90,7 @@ hr {
     background: #38444f url(../images/server.svg) 50% 6em no-repeat;
     background-size: 44% auto;
 }
+
 .main {
     -webkit-box-flex: 1;
     -ms-flex: 1 1 70%;
@@ -79,11 +99,13 @@ hr {
     padding: 10rem 5rem 5rem;
     min-height: 100vh;
 }
+
 .error-description {
     -webkit-box-flex: 1;
     -ms-flex: 1;
     flex: 1;
 }
+
 .help-actions a {
     display: inline-block;
     border: 2px solid #23a7de;
@@ -93,19 +115,25 @@ hr {
     -webkit-transition: 0.25s ease;
     transition: 0.25s ease;
 }
+
 .help-actions a:hover {
     text-decoration: none;
     background: #23a7de;
     color: #fff;
 }
+
 @media (max-width:959px) {
     .page:before {
         -ms-flex-preferred-size: 400px;
         flex-basis: 400px;
         background-position: 50% 4rem;
     }
-    .main { padding: 5rem; }
+
+    .main {
+        padding: 5rem;
+    }
 }
+
 @media (max-width: 769px) {
     .page {
         -webkit-box-orient: vertical;
@@ -113,20 +141,71 @@ hr {
         -ms-flex-direction: column;
         flex-direction: column;
     }
+
     .page:before {
         -ms-flex-preferred-size: 250px;
         flex-basis: 250px;
         background-position: 5rem -4.8rem;
         background-size: 166px auto;
     }
-    .main {  /* for IE 11 */
+
+    .main {
+        /* for IE 11 */
         min-height: 0;
         -webkit-box-flex: 0;
         -ms-flex: none;
         flex: none;
     }
 }
+
 @media (max-width: 479px) {
-    h2 { font-size: 3rem; }
-    .main { padding: 3rem; }
+    h2 {
+        font-size: 3rem;
+    }
+
+    .main {
+        padding: 3rem;
+    }
+}
+
+/* Vanderbilt Custom Theme Overrides */
+
+/* Homepage Banner - Uniform Orange Background #ff7400 */
+.homebanner__list__item__decoration,
+.homebanner .contentContainer {
+    background: #ff7400 !important;
+    /* Shorthand to override any images/gradients */
+    background-color: #ff7400 !important;
+}
+
+/* Homepage Banner - Make button Navy Blue */
+/* Using 'background' shorthand to override linear-gradient */
+.homebanner .button--green,
+.homebanner .button--green.contentContainer__btn {
+    background: #003366 !important;
+    border-color: #003366 !important;
+    color: #fff !important;
+}
+
+.homebanner .button--green:hover,
+.homebanner .button--green.contentContainer__btn:hover {
+    background: #002244 !important;
+    border-color: #002244 !important;
+}
+
+/* Ensure any overlay shapes (like the chevron) are also #ff7400 */
+.homebanner .shape,
+.homebanner__list__item .wrapper>div::before,
+/* Guessing potential pseudo-elements for the shape */
+.homebanner__list__item .wrapper>div::after {
+    fill: #ff7400 !important;
+    background-color: #ff7400 !important;
+    color: #ff7400 !important;
+}
+
+/* Specific override for any remaining green backgrounds in banner */
+.homebanner [style*="background-color: #bae26b"],
+.homebanner [style*="background: #bae26b"] {
+    background-color: #ff7400 !important;
+    background: #ff7400 !important;
 }
