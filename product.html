@@ -432,11 +432,9 @@
                     <div id="search_widget" class="search-widget"
                         data-search-controller-url="//vanderbuilt-omega.vercel.app/en/search">
 
-                        <form class="search__form" method="get" action="//vanderbuilt-omega.vercel.app/en/search">
+                        <form class="search__form" method="GET" action="product.html">
 
-                            <input type="hidden" name="controller" value="search">
-
-                            <input type="text" name="s" value="" placeholder="Search our catalog" aria-label="Search">
+                            <input type="text" name="q" value="" placeholder="Search our catalog" aria-label="Search">
 
                             <button type="submit">
                                 <svg class="">
@@ -583,6 +581,9 @@
 
                                 <!-- Sidebar removed as requested, filter moved to secondary nav -->
                                 <div class="main-wrapper" style="width: 100%; float: left;">
+                                    <div id="search-status-container"
+                                        style="width: 100%; margin-bottom: 20px; font-weight: bold; font-size: 1.2rem; color: #333; padding: 0 15px;">
+                                    </div>
                                     <div class="row" id="product-grid" style="display: flex; flex-wrap: wrap;">
                                         <div class="product-item Radiology"
                                             style="width: 30%; margin: 1.5%; box-shadow: 0 2px 5px rgba(0,0,0,0.1); padding: 10px; border-radius: 5px; background: #fff; float: left;">
@@ -2116,6 +2117,45 @@
 
 
 
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            var urlParams = new URLSearchParams(window.location.search);
+            var query = urlParams.get('q');
+
+            if (query) {
+                var decodedQuery = decodeURIComponent(query).trim().toLowerCase();
+
+                if (decodedQuery.length > 0) {
+                    var statusContainer = document.getElementById('search-status-container');
+                    // Safe text content to prevent XSS if query is reflected
+                    if (statusContainer) {
+                        statusContainer.textContent = 'Search results for: "' + query + '"';
+                    }
+
+                    var products = document.querySelectorAll('.product-item');
+                    var count = 0;
+
+                    for (var i = 0; i < products.length; i++) {
+                        var product = products[i];
+                        var titleEl = product.querySelector('.post-title');
+                        if (titleEl) {
+                            var text = titleEl.textContent || titleEl.innerText;
+                            if (text.toLowerCase().indexOf(decodedQuery) > -1) {
+                                product.style.removeProperty('display');
+                                count++;
+                            } else {
+                                product.style.display = 'none';
+                            }
+                        }
+                    }
+
+                    if (count === 0 && statusContainer) {
+                        statusContainer.innerHTML = 'No results found for: "' + query.replace(/</g, "&lt;").replace(/>/g, "&gt;") + '". <br><a href="product.html" style="text-decoration: underline; color: #ff5e15;">View all products</a>';
+                    }
+                }
+            }
+        });
+    </script>
 </body>
 
 </html>
