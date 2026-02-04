@@ -182,15 +182,47 @@ hr {
 /* Using 'background' shorthand to override linear-gradient */
 .homebanner .button--green,
 .homebanner .button--green.contentContainer__btn {
-    background: #003366 !important;
-    border-color: #003366 !important;
+    background: #000000 !important;
+    border-color: #000000 !important;
     color: #fff !important;
 }
 
 .homebanner .button--green:hover,
 .homebanner .button--green.contentContainer__btn:hover {
-    background: #002244 !important;
-    border-color: #002244 !important;
+    background: #333333 !important;
+    border-color: #333333 !important;
+}
+
+/* GLOBAL BUTTON OVERRIDES - BLACK */
+button,
+.button,
+.btn,
+.button--green,
+.button--darkGreen,
+.carousel__btn {
+    background: #000000 !important;
+    background-color: #000000 !important;
+    border-color: #000000 !important;
+    color: #fff !important;
+}
+
+button:hover,
+.button:hover,
+.btn:hover,
+.button--green:hover,
+.button--darkGreen:hover,
+.carousel__btn:hover {
+    background: #333333 !important;
+    background-color: #333333 !important;
+    border-color: #333333 !important;
+}
+
+/* EXCLUDE SEARCH BUTTON */
+.search__form button {
+    background: transparent !important;
+    background-color: transparent !important;
+    border: none !important;
+    color: inherit !important;
 }
 
 /* Ensure any overlay shapes (like the chevron) are also #ff7400 */
